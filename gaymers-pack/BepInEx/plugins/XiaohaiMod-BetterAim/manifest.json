@@ -1,0 +1,9 @@
+{
+  "name": "BetterAim",
+  "version_number": "1.0.0",
+  "website_url": "https://space.bilibili.com/2055787437 ",
+  "description": "Fixes weapon shaking caused by excessive strength and improves aiming stability",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

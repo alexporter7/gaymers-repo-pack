@@ -1,0 +1,10 @@
+{
+    "name": "AbioticFactorValuables",
+    "version_number": "1.0.2",
+	"website_url": "",
+    "description": "Adds 30 new items with various properties from the game Abiotic Factor!",
+    "dependencies": [
+	"Zehs-REPOLib-1.5.0"
+	, "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

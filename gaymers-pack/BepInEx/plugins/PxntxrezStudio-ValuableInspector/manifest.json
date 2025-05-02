@@ -1,0 +1,9 @@
+{
+    "name": "ValuableInspector",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/Pxntxrez/ValuableInspector",
+    "description": "Displays detailed info about the valuable item you're currently holding. Shows name, value range, weight, and which enemies it can stun. Fully supports modded valuables.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

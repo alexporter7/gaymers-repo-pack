@@ -1,0 +1,15 @@
+{
+    "replacements": [
+        {
+            "matches": [
+                "*:shop music"
+            ],
+            "sounds": [
+                {
+                    "sound": "wii_shop_channel_music.ogg",
+                    "weight": 5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "DropGuide",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Simply draws a line under the object you grab.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

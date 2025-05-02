@@ -1,0 +1,9 @@
+{
+    "name": "Map_Expand",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Ranily57/Map_Expand",
+    "description": "Enlarges the in-game map view in R.E.P.O., allowing you to see more of the map at once without having to scroll as much.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

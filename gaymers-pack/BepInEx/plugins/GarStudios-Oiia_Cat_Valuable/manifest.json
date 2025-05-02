@@ -1,0 +1,9 @@
+{
+  "name": "Oiia_Cat_Valuable",
+  "description": "Adds the funny spinning cat (ethel) into the game as a valuable!",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.5.0"
+  ],
+  "website_url": ""
+}

@@ -1,0 +1,9 @@
+{
+  "name": "BetterDirectionalDrones",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com",
+  "description": "Adds directional targeting to drones for a quality of life improvement.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

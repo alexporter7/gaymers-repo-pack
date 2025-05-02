@@ -1,0 +1,9 @@
+{
+  "name": "OiiaCatMusicBoxValuable",
+  "description": "Adds a separate music box with Oiia Cat  music, without affecting the original one",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.5.0"
+  ],
+  "website_url": ""
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Pack_Of_Nostalgia",
+  "description": "A refreshing assortment of valuables straight from your memories.. ",
+  "version_number": "1.2.1",
+  "dependencies": [
+    "Zehs-REPOLib-1.5.0"
+  ],
+  "website_url": ""
+}

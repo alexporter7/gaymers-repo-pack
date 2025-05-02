@@ -1,0 +1,9 @@
+{
+  "name": "MinecraftAdditions",
+  "description": "Adds the Enderman + Valuables",
+  "version_number": "1.0.7",
+  "dependencies": [
+    "Zehs-REPOLib-2.0.1"
+  ],
+  "website_url": ""
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Satisfactory_Items",
+  "description": "Adds Satisfactory Items",
+  "version_number": "1.0.5",
+  "dependencies": [
+    "Zehs-REPOLib-2.0.1"
+  ],
+  "website_url": ""
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Effective_Audio",
+    "version_number": "1.0.2",
+    "website_url": "https://thunderstore.io/c/repo/p/BitterDoes/",
+    "description": "Adds echo and reverb effects to the audio of the game",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

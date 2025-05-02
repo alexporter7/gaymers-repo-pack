@@ -1,0 +1,9 @@
+{
+  "name": "RDD_Valuables",
+  "description": "Adds several funny valuables. Some even have special effects.",
+  "version_number": "0.1.9",
+  "dependencies": [
+    "Zehs-REPOLib-1.5.0"
+  ],
+  "website_url": ""
+}

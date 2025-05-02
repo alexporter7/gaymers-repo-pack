@@ -1,0 +1,128 @@
+ManifestFileVersion: 0
+CRC: 31642194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b58fe5afe6e8acc47d0c61619391ab90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c15abc9054666edea968ddf23944097
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b58fe5afe6e8acc47d0c61619391ab90
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d0893f666540582cc8e6192b9b0efaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afb04f15e5901934204859739e834259, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8fc605d86e253c130d95b9eb74debf5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ab8f401ece3e057ce511d64ce84d618, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b92d0a529fd83f8597297eac8c68a10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff1df5370f7af74f11d71ad866fd0a19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2e3fc4316c5898b5096a51406a41294, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72bb657e63785f44f51afd88d9713a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04fd830d9ac5c3a8c94f439db8b418f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e1b73e8fb9dafe95eec93b28f98c582, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c20b921f0f6250c6ed1fdea2498755d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b58d543380fe68a9c9296c0734cbaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb8c5cd85de75894096f8ffb1f03f295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e94dcf3314020481f880b97f02fc505, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0727eaa6b245c79a70270919f6fe72c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dc612d23e30bc425c249e877f0d02db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6faa03549a5d36df92fbf8280daf61c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02942ab980045f4bc14fcfe6eb84b28f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 627a013663f820c93f7430687080fd1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdbaf320f11d71b6ca19a7a37b1bf649, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d1570d4589cf6daac40294b9f5544ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a15e1c781475aa01b4927595581aa78d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 328afba7744a086ddaa619a79c16685d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c60312014fde116a7e06d1e78f69a71d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 169
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Sound
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Mod/Fighter Drone/Strong Item Drone Fighter.prefab
+- Assets/Mod/Fighter Drone/Weak Item Drone Fighter.prefab
+- Assets/Mod/Fighter Drone/Item Drone Fighter.prefab
+Dependencies: []

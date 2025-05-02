@@ -1,0 +1,11 @@
+{
+  "name": "NoForcedDropMod",
+  "version_number": "1.0.6",
+  "website_url": "https://github.com/ViSerac/",
+  "description": "Prevents item drops when player is hit by enemies or thrown.",
+  "dependencies": [
+  "BepInEx-BepInExPack-5.4.2100",
+  "Hamunii-AutoHookGenPatcher-1.0.6",
+  "Hamunii-DetourContext_Dispose_Fix-1.0.4"
+]
+}

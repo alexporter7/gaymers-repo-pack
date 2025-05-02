@@ -1,0 +1,9 @@
+{
+  "name": "FUMO",
+  "description": "Fumos have been found in R.E.P.O.!",
+  "version_number": "1.0.1",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": "http://twitch.tv/silhygames"
+}

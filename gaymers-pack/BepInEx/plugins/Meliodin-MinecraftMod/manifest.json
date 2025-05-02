@@ -1,0 +1,9 @@
+{
+  "name": "MinecraftMod",
+  "description": "A Minecraft Mod that adds Some Blocks to the game!",
+  "version_number": "1.1.0",
+  "dependencies": [
+    "Zehs-REPOLib-2.0.1"
+  ],
+  "website_url": ""
+}

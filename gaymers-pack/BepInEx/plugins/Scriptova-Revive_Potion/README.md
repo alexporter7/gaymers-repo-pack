@@ -1,0 +1,1 @@
+Introduces a purchasable potion from the shop that generates an aura capable of reviving downed players to full health within its radius for a short duration.

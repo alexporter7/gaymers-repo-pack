@@ -1,0 +1,9 @@
+{
+	"name" : "Revive_Potion",
+	"version_number" : "1.0.2",
+	"website_url" : "",
+	"description" : "Introduces a purchasable potion from the shop that generates an aura capable of reviving downed players to full health within its radius for a short duration.",
+	"dependencies" : [
+		"Zehs-REPOLib-2.0.1"
+	]
+}

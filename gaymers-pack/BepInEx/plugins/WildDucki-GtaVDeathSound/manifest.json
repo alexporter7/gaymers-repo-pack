@@ -1,0 +1,10 @@
+{
+    "name": "GtaVDeathSound",
+    "version_number": "1.0.0",
+    "description": "This mod replaces the default death sound in the game with the iconic death sound from **Grand Theft Auto V**.",
+    "website_url": "https://github.com/WildDucki/Gta-5-Death-Sound",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
+

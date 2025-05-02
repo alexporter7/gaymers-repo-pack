@@ -1,0 +1,8 @@
+{
+  "name": "LateJoinSharedUpgradesByNastyPablo",
+  "version_number": "1.1.2",
+  "website_url": "",
+  "description": "The purpose of this mod is to allow players who join later in a game to receive the same upgrades as others instantly.",
+  "dependencies": [
+  ]
+}

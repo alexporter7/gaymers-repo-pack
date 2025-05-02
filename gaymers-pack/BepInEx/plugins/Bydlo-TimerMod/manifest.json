@@ -1,0 +1,9 @@
+{
+    "name": "TimerMod",
+    "version_number": "1.1.1",
+    "website_url": "",
+    "description": "Add timer spent on level and enemies' respawn times",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

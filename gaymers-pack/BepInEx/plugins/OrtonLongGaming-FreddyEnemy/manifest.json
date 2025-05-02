@@ -1,0 +1,11 @@
+{
+  "name": "FreddyEnemy",
+  "version_number": "1.0.3",
+  "website_url": "https://linktr.ee/ortonlonggaming",
+  "description": "Freddy Fazbear has come to haunt your squad of lowly Semibots!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "OrtonLongGaming-OrtonUtils-1.0.0",
+    "Zehs-REPOLib-1.5.0"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "REPOMON",
+  "description": "REPO Trading Card valueables!  Not an actual TGC (yet)",
+  "version_number": "1.0.1",
+  "dependencies": [
+    "Zehs-REPOLib-1.3.1"
+  ],
+  "website_url": ""
+}

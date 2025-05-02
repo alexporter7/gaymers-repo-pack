@@ -1,0 +1,10 @@
+{
+    "name": "ChatBox",
+    "version_number": "1.0.8",
+    "website_url": "",
+    "description": "Adds chat box to REPO for easier communication. Configurable!",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }
+  

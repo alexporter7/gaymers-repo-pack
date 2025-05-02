@@ -1,0 +1,2621 @@
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660026
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2100
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/cache/BepInEx-BepInExPack/5.4.2100/icon.png
+- manifestVersion: 1
+  name: Zehs-ExtractionPointConfirmButton
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/repo/p/Zehs/ExtractionPointConfirmButton/
+  displayName: ExtractionPointConfirmButton
+  description: Adds a confirm button to extraction points.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660032
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Zehs-ExtractionPointConfirmButton/icon.png
+- manifestVersion: 1
+  name: Zehs-REPOLib
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/repo/p/Zehs/REPOLib/
+  displayName: REPOLib
+  description: Library for adding content to R.E.P.O.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660037
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Zehs-REPOLib/icon.png
+- manifestVersion: 1
+  name: Bene-Satisfactory_Valuables
+  authorName: Bene
+  websiteUrl: https://thunderstore.io/c/repo/p/Bene/Satisfactory_Valuables/
+  displayName: Satisfactory_Valuables
+  description: Adds Satisfactory Valuables
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660045
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 6
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Bene-Satisfactory_Valuables/icon.png
+- manifestVersion: 1
+  name: Bene-Satisfactory_Items
+  authorName: Bene
+  websiteUrl: https://thunderstore.io/c/repo/p/Bene/Satisfactory_Items/
+  displayName: Satisfactory_Items
+  description: Adds Satisfactory Items
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660056
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Bene-Satisfactory_Items/icon.png
+- manifestVersion: 1
+  name: GalaxyMods-MoreShopItems
+  authorName: GalaxyMods
+  websiteUrl: https://thunderstore.io/c/repo/p/GalaxyMods/MoreShopItems/
+  displayName: MoreShopItems
+  description: The store now carries more items on the shelves!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660063
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/GalaxyMods-MoreShopItems/icon.png
+- manifestVersion: 1
+  name: surfknasen-Walkie_Talkies
+  authorName: surfknasen
+  websiteUrl: https://thunderstore.io/c/repo/p/surfknasen/Walkie_Talkies/
+  displayName: Walkie_Talkies
+  description: This mod introduces walkie talkies to REPO. Hold 'F' key to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660073
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-REPOConfig-1.1.8
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/surfknasen-Walkie_Talkies/icon.png
+- manifestVersion: 1
+  name: nickklmao-MenuLib
+  authorName: nickklmao
+  websiteUrl: https://thunderstore.io/c/repo/p/nickklmao/MenuLib/
+  displayName: MenuLib
+  description: A library for creating UI!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660079
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 4
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/nickklmao-MenuLib/icon.png
+- manifestVersion: 1
+  name: nickklmao-REPOConfig
+  authorName: nickklmao
+  websiteUrl: https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/
+  displayName: REPOConfig
+  description: Edit mod configs in-game!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660086
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-MenuLib-2.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/nickklmao-REPOConfig/icon.png
+- manifestVersion: 1
+  name: Propagande-1UPrevivesound
+  authorName: Propagande
+  websiteUrl: https://thunderstore.io/c/repo/p/Propagande/1UPrevivesound/
+  displayName: 1UPrevivesound
+  description: Replaces Revive sound by the 1UP in mario.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660095
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - loaforc-loaforcsSoundAPI-2.0.6
+    - loaforc-loaforcsSoundAPI_REPO-1.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Propagande-1UPrevivesound/icon.png
+- manifestVersion: 1
+  name: loaforc-loaforcsSoundAPI_REPO
+  authorName: loaforc
+  websiteUrl: https://thunderstore.io/c/repo/p/loaforc/loaforcsSoundAPI_REPO/
+  displayName: loaforcsSoundAPI_REPO
+  description: R.E.P.O. bindings for SoundAPI
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660104
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/loaforc-loaforcsSoundAPI_REPO/icon.png
+- manifestVersion: 1
+  name: loaforc-loaforcsSoundAPI
+  authorName: loaforc
+  websiteUrl: https://thunderstore.io/c/repo/p/loaforc/loaforcsSoundAPI/
+  displayName: loaforcsSoundAPI
+  description: A general use library to replace sounds in Unity games.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660112
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/loaforc-loaforcsSoundAPI/icon.png
+- manifestVersion: 1
+  name: Hura-Hura_Instant_Revive
+  authorName: Hura
+  websiteUrl: https://thunderstore.io/c/repo/p/Hura/Hura_Instant_Revive/
+  displayName: Hura_Instant_Revive
+  description: Revive heads instanlty when they are in the extraction point. No
+    need to wait for the cash out anymore.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660120
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Hura-Hura_Instant_Revive/icon.png
+- manifestVersion: 1
+  name: Tidaleus-MoreReviveHP
+  authorName: Tidaleus
+  websiteUrl: https://thunderstore.io/c/repo/p/Tidaleus/MoreReviveHP/
+  displayName: MoreReviveHP
+  description: Revive with 20 HP at Extractor instead of 1, configurable in cfg file
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660126
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Tidaleus-MoreReviveHP/icon.png
+- manifestVersion: 1
+  name: AriIcedT-MinecraftStrongholdLevel
+  authorName: AriIcedT
+  websiteUrl: https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/
+  displayName: MinecraftStrongholdLevel
+  description: A custom minecraft stronghold map based on the in game minecraft
+    generation, still in early beta.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660213
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 6
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/AriIcedT-MinecraftStrongholdLevel/icon.png
+- manifestVersion: 1
+  name: NastyPablo-LateJoinSharedUpgradesByNastyPablo
+  authorName: NastyPablo
+  websiteUrl: https://thunderstore.io/c/repo/p/NastyPablo/LateJoinSharedUpgradesByNastyPablo/
+  displayName: LateJoinSharedUpgradesByNastyPablo
+  description: The purpose of this mod is to allow players who join later in a
+    game to receive the same upgrades as others instantly.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660222
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/NastyPablo-LateJoinSharedUpgradesByNastyPablo/icon.png
+- manifestVersion: 1
+  name: mattymatty-AsyncLoggers
+  authorName: mattymatty
+  websiteUrl: https://thunderstore.io/c/repo/p/mattymatty/AsyncLoggers/
+  displayName: AsyncLoggers
+  description: YEET the logs to their own thread!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660232
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 4
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/mattymatty-AsyncLoggers/icon.png
+- manifestVersion: 1
+  name: DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher
+  authorName: DiFFoZ
+  websiteUrl: https://thunderstore.io/c/repo/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/
+  displayName: BepInEx_Faster_Load_AssetBundles_Patcher
+  description: Makes start up loading time faster
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660241
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher/icon.png
+- manifestVersion: 1
+  name: PxntxrezStudio-ValuableInspector
+  authorName: PxntxrezStudio
+  websiteUrl: https://thunderstore.io/c/repo/p/PxntxrezStudio/ValuableInspector/
+  displayName: ValuableInspector
+  description: Displays detailed info about the valuable item you're currently
+    holding. Shows name, value range, weight, and which enemies it can stun.
+    Fully supports modded valuables.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660250
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/PxntxrezStudio-ValuableInspector/icon.png
+- manifestVersion: 1
+  name: Kistras-Valuables_Scanner
+  authorName: Kistras
+  websiteUrl: https://thunderstore.io/c/repo/p/Kistras/Valuables_Scanner/
+  displayName: Valuables_Scanner
+  description: Discovers nearby valuables, enemies, weapons and dead teammates
+    when a key is pressed (F by default). Multiplayer friendly and highly
+    configurable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660257
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Kistras-CustomDiscoverStateLib-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Kistras-Valuables_Scanner/icon.png
+- manifestVersion: 1
+  name: Kistras-CustomDiscoverStateLib
+  authorName: Kistras
+  websiteUrl: https://thunderstore.io/c/repo/p/Kistras/CustomDiscoverStateLib/
+  displayName: CustomDiscoverStateLib
+  description: Library for your mod that allows for custom-colored discoveries
+    (similar to the thing you see when a valuable is encountered for the first
+    time)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660264
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Kistras-CustomDiscoverStateLib/icon.png
+- manifestVersion: 1
+  name: DunningKruger-DropGuide
+  authorName: DunningKruger
+  websiteUrl: https://thunderstore.io/c/repo/p/DunningKruger/DropGuide/
+  displayName: DropGuide
+  description: Simply draws a line under the object you grab.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660271
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/DunningKruger-DropGuide/icon.png
+- manifestVersion: 1
+  name: Einhornyordle-Repo_Leveling
+  authorName: Einhornyordle
+  websiteUrl: https://thunderstore.io/c/repo/p/Einhornyordle/Repo_Leveling/
+  displayName: Repo_Leveling
+  description: This mod turns R.E.P.O. into a rogue-lite, allowing you to build on
+    defeats. Track your Total Haul Value and earn Skill Points to spend on
+    permanent upgrades! Finally, experience a true sense of progression in
+    R.E.P.O.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660279
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-MenuLib-2.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Einhornyordle-Repo_Leveling/icon.png
+- manifestVersion: 1
+  name: Rangerbb275-Hospital_Level
+  authorName: Rangerbb275
+  websiteUrl: https://thunderstore.io/c/repo/p/Rangerbb275/Hospital_Level/
+  displayName: Hospital_Level
+  description: Adds in a Hospital level to REPO!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660366
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Rangerbb275-Hospital_Level/icon.png
+- manifestVersion: 1
+  name: khalliv-ShoppingListHUD
+  authorName: khalliv
+  websiteUrl: https://thunderstore.io/c/repo/p/khalliv/ShoppingListHUD/
+  displayName: ShoppingListHUD
+  description: Track your shopping!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660375
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/khalliv-ShoppingListHUD/icon.png
+- manifestVersion: 1
+  name: ErrorJan-TTSLocalizationFix
+  authorName: ErrorJan
+  websiteUrl: https://thunderstore.io/c/repo/p/ErrorJan/TTSLocalizationFix/
+  displayName: TTSLocalizationFix
+  description: Fixes the TTS in the R.E.P.O. Game, when it tries saying "öäü" or
+    other characters. This is a BepInEx 5 mod
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660385
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ErrorJan-TTSLocalizationFix/icon.png
+- manifestVersion: 1
+  name: Vg-UniTask
+  authorName: Vg
+  websiteUrl: https://thunderstore.io/c/repo/p/Vg/UniTask/
+  displayName: UniTask
+  description: Provides an efficient allocation free async/await integration for Unity.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660395
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 5
+    patch: 10
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Vg-UniTask/icon.png
+- manifestVersion: 1
+  name: ironbean-LevelNumberUI
+  authorName: ironbean
+  websiteUrl: https://thunderstore.io/c/repo/p/ironbean/LevelNumberUI/
+  displayName: LevelNumberUI
+  description: Adds text to the HUD that shows the current Level number.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660403
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ironbean-LevelNumberUI/icon.png
+- manifestVersion: 1
+  name: zombieseatflesh7-ColoredNametags
+  authorName: zombieseatflesh7
+  websiteUrl: https://thunderstore.io/c/repo/p/zombieseatflesh7/ColoredNametags/
+  displayName: ColoredNametags
+  description: Colors the nametags based on player color
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660411
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/zombieseatflesh7-ColoredNametags/icon.png
+- manifestVersion: 1
+  name: BlueAmulet-REPO_HD
+  authorName: BlueAmulet
+  websiteUrl: https://thunderstore.io/c/repo/p/BlueAmulet/REPO_HD/
+  displayName: REPO_HD
+  description: Removes the pixelation effect entirely
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660423
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/BlueAmulet-REPO_HD/icon.png
+- manifestVersion: 1
+  name: DaXcess-FixPluginTypesSerialization
+  authorName: DaXcess
+  websiteUrl: https://thunderstore.io/c/repo/p/DaXcess/FixPluginTypesSerialization/
+  displayName: FixPluginTypesSerialization
+  description: Fix custom Serializable structs and such not properly getting
+    deserialized by Unity.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660435
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/DaXcess-FixPluginTypesSerialization/icon.png
+- manifestVersion: 1
+  name: MelanieMelicious-Cart_Lights_MelanieMelicious
+  authorName: MelanieMelicious
+  websiteUrl: https://thunderstore.io/c/repo/p/MelanieMelicious/Cart_Lights_MelanieMelicious/
+  displayName: Cart_Lights_MelanieMelicious
+  description: Just adds a light to the front of the carts. You can probably find
+    me on the R.E.P.O modding Discord.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660448
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/MelanieMelicious-Cart_Lights_MelanieMelicious/icon.png
+- manifestVersion: 1
+  name: Ranily-Map_Expand
+  authorName: Ranily
+  websiteUrl: https://thunderstore.io/c/repo/p/Ranily/Map_Expand/
+  displayName: Map_Expand
+  description: Enlarges the in-game map view in R.E.P.O., allowing you to see more
+    of the map at once without having to scroll as much.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660458
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Ranily-Map_Expand/icon.png
+- manifestVersion: 1
+  name: Ugleh-Custom_Enemy_Location
+  authorName: Ugleh
+  websiteUrl: https://thunderstore.io/c/repo/p/Ugleh/Custom_Enemy_Location/
+  displayName: Custom_Enemy_Location
+  description: Add Enemy Point In the Map
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660468
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Ugleh-Custom_Enemy_Location/icon.png
+- manifestVersion: 1
+  name: Bydlo-TimerMod
+  authorName: Bydlo
+  websiteUrl: https://thunderstore.io/c/repo/p/Bydlo/TimerMod/
+  displayName: TimerMod
+  description: Add timer spent on level and enemies' respawn times
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660478
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Bydlo-TimerMod/icon.png
+- manifestVersion: 1
+  name: x753_REPO-CustomColors
+  authorName: x753_REPO
+  websiteUrl: https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/
+  displayName: CustomColors
+  description: Adds RGB color sliders to the Select Color page so you can select a
+    custom color
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660489
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/x753_REPO-CustomColors/icon.png
+- manifestVersion: 1
+  name: OrtonLongGaming-FNAFLevel
+  authorName: OrtonLongGaming
+  websiteUrl: https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/
+  displayName: FNAFLevel
+  description: Freddy Fazbear's Pizza, where Fantasy meets Fun!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660588
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/OrtonLongGaming-FNAFLevel/icon.png
+- manifestVersion: 1
+  name: OrtonLongGaming-FreddyEnemy
+  authorName: OrtonLongGaming
+  websiteUrl: https://thunderstore.io/c/repo/p/OrtonLongGaming/FreddyEnemy/
+  displayName: FreddyEnemy
+  description: Freddy Fazbear has come to haunt your squad of lowly Semibots!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660645
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.5.0
+    - OrtonLongGaming-OrtonUtils-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/OrtonLongGaming-FreddyEnemy/icon.png
+- manifestVersion: 1
+  name: OrtonLongGaming-OrtonUtils
+  authorName: OrtonLongGaming
+  websiteUrl: https://thunderstore.io/c/repo/p/OrtonLongGaming/OrtonUtils/
+  displayName: OrtonUtils
+  description: Contains multiple shared resources for mods.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660658
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/OrtonLongGaming-OrtonUtils/icon.png
+- manifestVersion: 1
+  name: Hattorius-PostLevelSummary
+  authorName: Hattorius
+  websiteUrl: https://thunderstore.io/c/repo/p/Hattorius/PostLevelSummary/
+  displayName: PostLevelSummary
+  description: A non-invasive R.E.P.O. mod that gives you end-of-level stats! See
+    how much value & items you extracted, how much was lost due to damage, and
+    how many hits items took. No extra advantages!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660669
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Hattorius-PostLevelSummary/icon.png
+- manifestVersion: 1
+  name: Scriptova-Revive_Potion
+  authorName: Scriptova
+  websiteUrl: https://thunderstore.io/c/repo/p/Scriptova/Revive_Potion/
+  displayName: Revive_Potion
+  description: Introduces a purchasable potion from the shop that generates an
+    aura capable of reviving downed players to full health within its radius for
+    a short duration.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660685
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Scriptova-Revive_Potion/icon.png
+- manifestVersion: 1
+  name: Lunoid-REPO_Alchemy
+  authorName: Lunoid
+  websiteUrl: https://thunderstore.io/c/repo/p/Lunoid/REPO_Alchemy/
+  displayName: REPO_Alchemy
+  description: Adds a polished crafting system to REPO! REQUIRES OTHER MODS TO ADD RECIPES
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660701
+  loaders: []
+  dependencies:
+    - Kistras-CustomDiscoverStateLib-1.0.0
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Lunoid-REPO_Alchemy/icon.png
+- manifestVersion: 1
+  name: Yuckers-Unique_Potions
+  authorName: Yuckers
+  websiteUrl: https://thunderstore.io/c/repo/p/Yuckers/Unique_Potions/
+  displayName: Unique_Potions
+  description: REPO ALCHEMY COMPATABILITY! Adds a variety of valuable potions and
+    purchaseable elixirs with unique effects.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660718
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+    - Lunoid-REPO_Alchemy-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 6
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Yuckers-Unique_Potions/icon.png
+- manifestVersion: 1
+  name: WildDucki-GtaVDeathSound
+  authorName: WildDucki
+  websiteUrl: https://thunderstore.io/c/repo/p/WildDucki/GtaVDeathSound/
+  displayName: GtaVDeathSound
+  description: This mod replaces the default death sound in the game with the
+    iconic death sound from **Grand Theft Auto V**.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660730
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/WildDucki-GtaVDeathSound/icon.png
+- manifestVersion: 1
+  name: silhygames-FUMO
+  authorName: silhygames
+  websiteUrl: https://thunderstore.io/c/repo/p/silhygames/FUMO/
+  displayName: FUMO
+  description: Fumos have been found in R.E.P.O.!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660790
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/silhygames-FUMO/icon.png
+- manifestVersion: 1
+  name: Kawasaki-ConsolesX
+  authorName: Kawasaki
+  websiteUrl: https://thunderstore.io/c/repo/p/Kawasaki/ConsolesX/
+  displayName: ConsolesX
+  description: Console Valuables
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225660998
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Kawasaki-ConsolesX/icon.png
+- manifestVersion: 1
+  name: discjenny-CartSpeedSync
+  authorName: discjenny
+  websiteUrl: https://thunderstore.io/c/repo/p/discjenny/CartSpeedSync/
+  displayName: CartSpeedSync
+  description: Syncs the cart speed to the players speed when sprinting. This
+    ensures the cart moves smoothly with the player when they accumulate speed
+    upgrades.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661018
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/discjenny-CartSpeedSync/icon.png
+- manifestVersion: 1
+  name: flipf17-OpenExtractionWithCart
+  authorName: flipf17
+  websiteUrl: https://thunderstore.io/c/repo/p/flipf17/OpenExtractionWithCart/
+  displayName: OpenExtractionWithCart
+  description: Allows opening extraction zones by pushing the cart into the
+    button! Because we're lazy.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661039
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/flipf17-OpenExtractionWithCart/icon.png
+- manifestVersion: 1
+  name: KatKlerb-REPOCartDecorations
+  authorName: KatKlerb
+  websiteUrl: https://thunderstore.io/c/repo/p/KatKlerb/REPOCartDecorations/
+  displayName: REPOCartDecorations
+  description: Decorations for your cart!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661060
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.3.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/KatKlerb-REPOCartDecorations/icon.png
+- manifestVersion: 1
+  name: itsUndefined-Shop_Items_Spawn_in_Level
+  authorName: itsUndefined
+  websiteUrl: https://thunderstore.io/c/repo/p/itsUndefined/Shop_Items_Spawn_in_Level/
+  displayName: Shop_Items_Spawn_in_Level
+  description: upgrade items may spawn in the level, now you can find upgrades
+    while exploring instead of only being able to purchase them.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661080
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 17
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/itsUndefined-Shop_Items_Spawn_in_Level/icon.png
+- manifestVersion: 1
+  name: soundedsquash-Clear_UI
+  authorName: soundedsquash
+  websiteUrl: https://thunderstore.io/c/repo/p/soundedsquash/Clear_UI/
+  displayName: Clear_UI
+  description: Makes the UI sharp and clear into HD. Removes the blur/glow, curved
+    screen, and chromatic aberration effects.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661101
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-REPOConfig-1.1.7
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/soundedsquash-Clear_UI/icon.png
+- manifestVersion: 1
+  name: ColtG5-BoomboxCart
+  authorName: ColtG5
+  websiteUrl: https://thunderstore.io/c/repo/p/ColtG5/BoomboxCart/
+  displayName: BoomboxCart
+  description: Carts now double as a boombox! Grab a cart, press Y, and play video
+    links for everyone to hear! Supports YouTube, SoundCloud, Bilibili, Rutube,
+    and more (check README)! Configurable volume and quality sliders from the
+    in-game boombox GUI.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661119
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ColtG5-BoomboxCart/icon.png
+- manifestVersion: 1
+  name: Lazarus-BetterTruckHeals
+  authorName: Lazarus
+  websiteUrl: https://thunderstore.io/c/repo/p/Lazarus/BetterTruckHeals/
+  displayName: BetterTruckHeals
+  description: Increases the truck heal to 50 instead of 25 and has a fully
+    configurable amount!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661139
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-REPOConfig-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Lazarus-BetterTruckHeals/icon.png
+- manifestVersion: 1
+  name: Flopper-ImprovedStamina
+  authorName: Flopper
+  websiteUrl: https://thunderstore.io/c/repo/p/Flopper/ImprovedStamina/
+  displayName: ImprovedStamina
+  description: Enhances the stamina regeneration system in the game.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661160
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Flopper-ImprovedStamina/icon.png
+- manifestVersion: 1
+  name: Caigan-Tokucade_Valuables
+  authorName: Caigan
+  websiteUrl: https://thunderstore.io/c/repo/p/Caigan/Tokucade_Valuables/
+  displayName: Tokucade_Valuables
+  description: Toys, plushies, and silly things. A lot of various fun bits of loot
+    to find, all from the Tokucade!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661220
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Caigan-Tokucade_Valuables/icon.png
+- manifestVersion: 1
+  name: XiaohaiMod-XH_DamageShow_EnemyHealthBar
+  authorName: XiaohaiMod
+  websiteUrl: https://thunderstore.io/c/repo/p/XiaohaiMod/XH_DamageShow_EnemyHealthBar/
+  displayName: XH_DamageShow_EnemyHealthBar
+  description: Enemy Health Bar and Damage Value Display by Xiaohai
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661242
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/XiaohaiMod-XH_DamageShow_EnemyHealthBar/icon.png
+- manifestVersion: 1
+  name: Magic_Wesley-Wesleys_Enemies
+  authorName: Magic_Wesley
+  websiteUrl: https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Enemies/
+  displayName: Wesleys_Enemies
+  description: Adds a few new enemies
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661281
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Magic_Wesley-Wesleys_Enemies/icon.png
+- manifestVersion: 1
+  name: Tolian-Tolian_Levels
+  authorName: Tolian
+  websiteUrl: https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/
+  displayName: Tolian_Levels
+  description: adds new levels a game. by tolian!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661361
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Tolian-Tolian_Levels/icon.png
+- manifestVersion: 1
+  name: BULLETBOT-ScaleInCart
+  authorName: BULLETBOT
+  websiteUrl: https://thunderstore.io/c/repo/p/BULLETBOT/ScaleInCart/
+  displayName: ScaleInCart
+  description: Scales anything or valuables in the cart, supports REPOLib and is
+    highly configurable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661379
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 8
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/BULLETBOT-ScaleInCart/icon.png
+- manifestVersion: 1
+  name: Spawze-Spawzes_Valuables
+  authorName: Spawze
+  websiteUrl: https://thunderstore.io/c/repo/p/Spawze/Spawzes_Valuables/
+  displayName: Spawzes_Valuables
+  description: Random stuff that I wanted to add to REPO. Currently adds 10 new
+    balanced valuables, like Maxwell and the Gwa Gwa cat to find in the game!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661401
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Spawze-Spawzes_Valuables/icon.png
+- manifestVersion: 1
+  name: eXish-ForgottenDelivery
+  authorName: eXish
+  websiteUrl: https://thunderstore.io/c/repo/p/eXish/ForgottenDelivery/
+  displayName: ForgottenDelivery
+  description: Adds delivery packages that contain a free shop item.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661426
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/eXish-ForgottenDelivery/icon.png
+- manifestVersion: 1
+  name: FluxTeam-WiiShopChannelMusic
+  authorName: FluxTeam
+  websiteUrl: https://thunderstore.io/c/repo/p/FluxTeam/WiiShopChannelMusic/
+  displayName: WiiShopChannelMusic
+  description: Replaces the Store music with the Wii Shop Channel music
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661451
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - loaforc-loaforcsSoundAPI-2.0.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/FluxTeam-WiiShopChannelMusic/icon.png
+- manifestVersion: 1
+  name: caleb054126-ROBLOXValuables
+  authorName: caleb054126
+  websiteUrl: https://thunderstore.io/c/repo/p/caleb054126/ROBLOXValuables/
+  displayName: ROBLOXValuables
+  description: random roblox items as valuables
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661479
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/caleb054126-ROBLOXValuables/icon.png
+- manifestVersion: 1
+  name: WhalesAllAround-CartReclaim
+  authorName: WhalesAllAround
+  websiteUrl: https://thunderstore.io/c/repo/p/WhalesAllAround/CartReclaim/
+  displayName: CartReclaim
+  description: Respawns your cart if gets destroyed. Reclamation Engine for
+    C.A.R.T. Loss And Immediate Materialization.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661505
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/WhalesAllAround-CartReclaim/icon.png
+- manifestVersion: 1
+  name: Beaniebe-Deeproot_Garden
+  authorName: Beaniebe
+  websiteUrl: https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/
+  displayName: Deeproot_Garden
+  description: A Vanilla themed garden level!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661604
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Beaniebe-Deeproot_Garden/icon.png
+- manifestVersion: 1
+  name: NoSpawnn-BetterChatBox
+  authorName: NoSpawnn
+  websiteUrl: https://thunderstore.io/c/repo/p/NoSpawnn/BetterChatBox/
+  displayName: BetterChatBox
+  description: Make the chat box editable and keyboard navigable
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661628
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/NoSpawnn-BetterChatBox/icon.png
+- manifestVersion: 1
+  name: UnloadedHangar-ChatBox
+  authorName: UnloadedHangar
+  websiteUrl: https://thunderstore.io/c/repo/p/UnloadedHangar/ChatBox/
+  displayName: ChatBox
+  description: Adds chat box to REPO for easier communication. Configurable!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661649
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/UnloadedHangar-ChatBox/icon.png
+- manifestVersion: 1
+  name: GarStudios-Oiia_Cat_Valuable
+  authorName: GarStudios
+  websiteUrl: https://thunderstore.io/c/repo/p/GarStudios/Oiia_Cat_Valuable/
+  displayName: Oiia_Cat_Valuable
+  description: Adds the funny spinning cat (ethel) into the game as a valuable!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661673
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/GarStudios-Oiia_Cat_Valuable/icon.png
+- manifestVersion: 1
+  name: Enchanted_Games-CustomGrabColor
+  authorName: Enchanted_Games
+  websiteUrl: https://thunderstore.io/c/repo/p/Enchanted_Games/CustomGrabColor/
+  displayName: CustomGrabColor
+  description: Lets you change your grab beam colour. Customisable and fully
+    multiplayer compatible!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661692
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-MenuLib-2.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Enchanted_Games-CustomGrabColor/icon.png
+- manifestVersion: 1
+  name: propheteer-Pack_Of_Nostalgia
+  authorName: propheteer
+  websiteUrl: https://thunderstore.io/c/repo/p/propheteer/Pack_Of_Nostalgia/
+  displayName: Pack_Of_Nostalgia
+  description: A refreshing assortment of valuables straight from your memories..
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661772
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/propheteer-Pack_Of_Nostalgia/icon.png
+- manifestVersion: 1
+  name: randomlygenerated-Louder_Hunter_Footsteps
+  authorName: randomlygenerated
+  websiteUrl: https://thunderstore.io/c/repo/p/randomlygenerated/Louder_Hunter_Footsteps/
+  displayName: Louder_Hunter_Footsteps
+  description: Makes Hunter footstep volume, range, and echo configurable via config file.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661793
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/randomlygenerated-Louder_Hunter_Footsteps/icon.png
+- manifestVersion: 1
+  name: GreatColtini-MinecraftAdditions
+  authorName: GreatColtini
+  websiteUrl: https://thunderstore.io/c/repo/p/GreatColtini/MinecraftAdditions/
+  displayName: MinecraftAdditions
+  description: Adds the Enderman + Valuables
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661816
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 7
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/GreatColtini-MinecraftAdditions/icon.png
+- manifestVersion: 1
+  name: KatKlerb-REPOMON
+  authorName: KatKlerb
+  websiteUrl: https://thunderstore.io/c/repo/p/KatKlerb/REPOMON/
+  displayName: REPOMON
+  description: REPO Trading Card valueables!  Not an actual TGC (yet)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661846
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.3.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/KatKlerb-REPOMON/icon.png
+- manifestVersion: 1
+  name: Jake_n_Liv-Jake_and_Livs_Retro_Smashpack
+  authorName: Jake_n_Liv
+  websiteUrl: https://thunderstore.io/c/repo/p/Jake_n_Liv/Jake_and_Livs_Retro_Smashpack/
+  displayName: Jake_and_Livs_Retro_Smashpack
+  description: 200+ NEW Valuables to collect! Including some from your favorite games!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661910
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Jake_n_Liv-Jake_and_Livs_Retro_Smashpack/icon.png
+- manifestVersion: 1
+  name: XiaohaiMod-BetterAim
+  authorName: XiaohaiMod
+  websiteUrl: https://thunderstore.io/c/repo/p/XiaohaiMod/BetterAim/
+  displayName: BetterAim
+  description: Fixes weapon shaking caused by excessive strength and improves
+    aiming stability
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661932
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/XiaohaiMod-BetterAim/icon.png
+- manifestVersion: 1
+  name: TheASMRsonist-BetterDoorSounds
+  authorName: TheASMRsonist
+  websiteUrl: https://thunderstore.io/c/repo/p/TheASMRsonist/BetterDoorSounds/
+  displayName: BetterDoorSounds
+  description: This replaces all door sounds and adds better ones!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661952
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+    - BepInEx-BepInExPack-5.4.2100
+    - loaforc-loaforcsSoundAPI-2.0.6
+    - loaforc-loaforcsSoundAPI_REPO-1.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 4
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/TheASMRsonist-BetterDoorSounds/icon.png
+- manifestVersion: 1
+  name: Lazarus-NoGunSpread
+  authorName: Lazarus
+  websiteUrl: https://thunderstore.io/c/repo/p/Lazarus/NoGunSpread/
+  displayName: NoGunSpread
+  description: Removes the inaccurate bullet spread from all guns!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661973
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Lazarus-NoGunSpread/icon.png
+- manifestVersion: 1
+  name: ColtG5-LegoGnomes
+  authorName: ColtG5
+  websiteUrl: https://thunderstore.io/c/repo/p/ColtG5/LegoGnomes/
+  displayName: LegoGnomes
+  description: Adds the lego brick breaking sound effect upon a gnome's death.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225661989
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ColtG5-LegoGnomes/icon.png
+- manifestVersion: 1
+  name: Clementinise-ZoomyEyes
+  authorName: Clementinise
+  websiteUrl: https://thunderstore.io/c/repo/p/Clementinise/ZoomyEyes/
+  displayName: ZoomyEyes
+  description: Adjust your default pupil size, zoom with visible pupil changes
+    that players can see in real-time. Customizable and fully synchronized.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662013
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Clementinise-ZoomyEyes/icon.png
+- manifestVersion: 1
+  name: u2vr_Team-BetterWeaponBalance
+  authorName: u2vr_Team
+  websiteUrl: https://thunderstore.io/c/repo/p/u2vr_Team/BetterWeaponBalance/
+  displayName: BetterWeaponBalance
+  description: 12 tranq, 6 shells for shotgun, 12 bullets for handgun and no more
+    infinite ammo bug!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662031
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/u2vr_Team-BetterWeaponBalance/icon.png
+- manifestVersion: 1
+  name: tupperware-MoreItems
+  authorName: tupperware
+  websiteUrl: https://thunderstore.io/c/repo/p/tupperware/MoreItems/
+  displayName: MoreItems
+  description: Adds more valueables to the game with more players
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662047
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/tupperware-MoreItems/icon.png
+- manifestVersion: 1
+  name: Nikki-AbioticFactorValuables
+  authorName: Nikki
+  websiteUrl: https://thunderstore.io/c/repo/p/Nikki/AbioticFactorValuables/
+  displayName: AbioticFactorValuables
+  description: Adds 30 new items with various properties from the game Abiotic Factor!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662072
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.5.0
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Nikki-AbioticFactorValuables/icon.png
+- manifestVersion: 1
+  name: prxphet-BetterTumble
+  authorName: prxphet
+  websiteUrl: https://thunderstore.io/c/repo/p/prxphet/BetterTumble/
+  displayName: BetterTumble
+  description: Ability to customize tumble launch settings. Using yourself as a
+    weapon now should have more sense. :)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662092
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-REPOConfig-1.1.8
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/prxphet-BetterTumble/icon.png
+- manifestVersion: 1
+  name: PaintedThornStudios-MCZombieMod
+  authorName: PaintedThornStudios
+  websiteUrl: https://thunderstore.io/c/repo/p/PaintedThornStudios/MCZombieMod/
+  displayName: MCZombieMod
+  description: Adds a MC Zombie to the game.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662113
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+    - PaintedThornStudios-PaintedUtils-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/PaintedThornStudios-MCZombieMod/icon.png
+- manifestVersion: 1
+  name: PaintedThornStudios-PaintedUtils
+  authorName: PaintedThornStudios
+  websiteUrl: https://thunderstore.io/c/repo/p/PaintedThornStudios/PaintedUtils/
+  displayName: PaintedUtils
+  description: Utilities for mods by PaintedThornStudios
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662133
+  loaders: []
+  dependencies:
+    - DaXcess-FixPluginTypesSerialization-1.0.0
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/PaintedThornStudios-PaintedUtils/icon.png
+- manifestVersion: 1
+  name: Bananinha-NoForcedDropMod
+  authorName: Bananinha
+  websiteUrl: https://thunderstore.io/c/repo/p/Bananinha/NoForcedDropMod/
+  displayName: NoForcedDropMod
+  description: Prevents item drops when player is hit by enemies or thrown.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662154
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Hamunii-AutoHookGenPatcher-1.0.6
+    - Hamunii-DetourContext_Dispose_Fix-1.0.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Bananinha-NoForcedDropMod/icon.png
+- manifestVersion: 1
+  name: Hamunii-DetourContext_Dispose_Fix
+  authorName: Hamunii
+  websiteUrl: https://thunderstore.io/c/repo/p/Hamunii/DetourContext_Dispose_Fix/
+  displayName: DetourContext_Dispose_Fix
+  description: A BepInEx patcher to fix MonoMod.RuntimeDetour's
+    DetourContext.Dispose not working.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662175
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Hamunii-DetourContext_Dispose_Fix/icon.png
+- manifestVersion: 1
+  name: Hamunii-AutoHookGenPatcher
+  authorName: Hamunii
+  websiteUrl: https://thunderstore.io/c/repo/p/Hamunii/AutoHookGenPatcher/
+  displayName: AutoHookGenPatcher
+  description: Automatically generates MonoMod.RuntimeDetour.HookGen's MMHOOK
+    files during the BepInEx preloader phase.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662196
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Hamunii-DetourContext_Dispose_Fix-1.0.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Hamunii-AutoHookGenPatcher/icon.png
+- manifestVersion: 1
+  name: BitterDoes-Effective_Audio
+  authorName: BitterDoes
+  websiteUrl: https://thunderstore.io/c/repo/p/BitterDoes/Effective_Audio/
+  displayName: Effective_Audio
+  description: Adds echo and reverb effects to the audio of the game
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662216
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/BitterDoes-Effective_Audio/icon.png
+- manifestVersion: 1
+  name: PearlGalaxy-NintendoValuables
+  authorName: PearlGalaxy
+  websiteUrl: https://thunderstore.io/c/repo/p/PearlGalaxy/NintendoValuables/
+  displayName: NintendoValuables
+  description: Adds a bunch of valuables from different Nintendo games
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662250
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/PearlGalaxy-NintendoValuables/icon.png
+- manifestVersion: 1
+  name: nickklmao-JustRetry
+  authorName: nickklmao
+  websiteUrl: https://thunderstore.io/c/repo/p/nickklmao/JustRetry/
+  displayName: JustRetry
+  description: Are you tired of losing? Just retry.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662275
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/nickklmao-JustRetry/icon.png
+- manifestVersion: 1
+  name: Magic_Wesley-Wesleys_Levels
+  authorName: Magic_Wesley
+  websiteUrl: https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/
+  displayName: Wesleys_Levels
+  description: Adds a new level
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662325
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Magic_Wesley-Wesleys_Levels/icon.png
+- manifestVersion: 1
+  name: Flanagan-BetterVoiceRange
+  authorName: Flanagan
+  websiteUrl: https://thunderstore.io/c/repo/p/Flanagan/BetterVoiceRange/
+  displayName: BetterVoiceRange
+  description: Allows customization of how voice audio behaves based on distance and walls.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662347
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Flanagan-BetterVoiceRange/icon.png
+- manifestVersion: 1
+  name: Meliodin-MinecraftMod
+  authorName: Meliodin
+  websiteUrl: https://thunderstore.io/c/repo/p/Meliodin/MinecraftMod/
+  displayName: MinecraftMod
+  description: A Minecraft Mod that adds Some Blocks to the game!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662367
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Meliodin-MinecraftMod/icon.png
+- manifestVersion: 1
+  name: DragonModders-RDD_Valuables
+  authorName: DragonModders
+  websiteUrl: https://thunderstore.io/c/repo/p/DragonModders/RDD_Valuables/
+  displayName: RDD_Valuables
+  description: Adds several funny valuables. Some even have special effects.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662425
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 9
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/DragonModders-RDD_Valuables/icon.png
+- manifestVersion: 1
+  name: MinamiIzumiVT-ZeldaValuables
+  authorName: MinamiIzumiVT
+  websiteUrl: https://thunderstore.io/c/repo/p/MinamiIzumiVT/ZeldaValuables/
+  displayName: ZeldaValuables
+  description: A Zelda Themed Valuable Mod with it's second update out now!!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662450
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/MinamiIzumiVT-ZeldaValuables/icon.png
+- manifestVersion: 1
+  name: CachaloteEnjoyer-BladeOfChaos
+  authorName: CachaloteEnjoyer
+  websiteUrl: https://thunderstore.io/c/repo/p/CachaloteEnjoyer/BladeOfChaos/
+  displayName: BladeOfChaos
+  description: Blade of Chaos
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662486
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/CachaloteEnjoyer-BladeOfChaos/icon.png
+- manifestVersion: 1
+  name: dig-BetterDirectionalDrones
+  authorName: dig
+  websiteUrl: https://thunderstore.io/c/repo/p/dig/BetterDirectionalDrones/
+  displayName: BetterDirectionalDrones
+  description: Adds directional targeting to drones for a quality of life improvement.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662516
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/dig-BetterDirectionalDrones/icon.png
+- manifestVersion: 1
+  name: linkoid-DreadHeadDuck
+  authorName: linkoid
+  websiteUrl: https://thunderstore.io/c/repo/p/linkoid/DreadHeadDuck/
+  displayName: DreadHeadDuck
+  description: Ducks have a chance to spawn with Dread Heads which mimic player's
+    dead heads.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662550
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/linkoid-DreadHeadDuck/icon.png
+- manifestVersion: 1
+  name: TheRavenNest-UnlimitedOrbs
+  authorName: TheRavenNest
+  websiteUrl: https://thunderstore.io/c/repo/p/TheRavenNest/UnlimitedOrbs/
+  displayName: UnlimitedOrbs
+  description: Removes the Monster Orb cap from 3 to the maximum int value, which
+    removes the softlock the game has if you accidently destroy all the loot
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662576
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/TheRavenNest-UnlimitedOrbs/icon.png
+- manifestVersion: 1
+  name: amcdev-MoneybagProtect
+  authorName: amcdev
+  websiteUrl: https://thunderstore.io/c/repo/p/amcdev/MoneybagProtect/
+  displayName: MoneybagProtect
+  description: this mod extends the amount of time that your tax return moneybag
+    is invincible after being dispensed
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662600
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/amcdev-MoneybagProtect/icon.png
+- manifestVersion: 1
+  name: Disciple-Pokeball_Valuables
+  authorName: Disciple
+  websiteUrl: https://thunderstore.io/c/repo/p/Disciple/Pokeball_Valuables/
+  displayName: Pokeball_Valuables
+  description: Adds Valuable Pokeballs
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662626
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Disciple-Pokeball_Valuables/icon.png
+- manifestVersion: 1
+  name: XiaohaiMod-HealDrone
+  authorName: XiaohaiMod
+  websiteUrl: https://thunderstore.io/c/repo/p/XiaohaiMod/HealDrone/
+  displayName: HealDrone
+  description: Heal Drone mod based on in-game drone model, automatically follows
+    players and provides continuous health regeneration.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662653
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.4.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/XiaohaiMod-HealDrone/icon.png
+- manifestVersion: 1
+  name: GalaxyMods-MoreValuablesUpgrade
+  authorName: GalaxyMods
+  websiteUrl: https://thunderstore.io/c/repo/p/GalaxyMods/MoreValuablesUpgrade/
+  displayName: MoreValuablesUpgrade
+  description: More valuables in the palm of your hand!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662678
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.5.0
+    - BULLETBOT-MoreUpgrades-1.4.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/GalaxyMods-MoreValuablesUpgrade/icon.png
+- manifestVersion: 1
+  name: BULLETBOT-MoreUpgrades
+  authorName: BULLETBOT
+  websiteUrl: https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/
+  displayName: MoreUpgrades
+  description: Adds more upgrade items to the game, has an library and is highly
+    configurable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662704
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 8
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/BULLETBOT-MoreUpgrades/icon.png
+- manifestVersion: 1
+  name: Rangerbb275-Rifle
+  authorName: Rangerbb275
+  websiteUrl: https://thunderstore.io/c/repo/p/Rangerbb275/Rifle/
+  displayName: Rifle
+  description: This mod adds the Huntsman's rifle to REPO!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662731
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.4.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Rangerbb275-Rifle/icon.png
+- manifestVersion: 1
+  name: NEVAR-OiiaCatMusicBoxValuable
+  authorName: NEVAR
+  websiteUrl: https://thunderstore.io/c/repo/p/NEVAR/OiiaCatMusicBoxValuable/
+  displayName: OiiaCatMusicBoxValuable
+  description: Adds a separate music box with Oiia Cat  music, without affecting
+    the original one
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662758
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/NEVAR-OiiaCatMusicBoxValuable/icon.png
+- manifestVersion: 1
+  name: Ernedev-Fighter_Drones
+  authorName: Ernedev
+  websiteUrl: https://thunderstore.io/c/repo/p/Ernedev/Fighter_Drones/
+  displayName: Fighter_Drones
+  description: Adds new fighter drones to your game !
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662782
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-1.5.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Ernedev-Fighter_Drones/icon.png
+- manifestVersion: 1
+  name: Lluciocc-GamblingMachine
+  authorName: Lluciocc
+  websiteUrl: https://thunderstore.io/c/repo/p/Lluciocc/GamblingMachine/
+  displayName: GamblingMachine
+  description: Gambling Machine in shop and earn reward !!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662809
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Zehs-REPOLib-2.0.1
+    - nickklmao-REPOConfig-1.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Lluciocc-GamblingMachine/icon.png
+- manifestVersion: 1
+  name: eth9n-Mimic
+  authorName: eth9n
+  websiteUrl: https://thunderstore.io/c/repo/p/eth9n/Mimic/
+  displayName: Mimic
+  description: Mimic is a Skinwalker (Lethal Company Mod) inspired mod for R.E.P.O
+    that allows the creatures of the game to sound like you or your friends!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662833
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-REPOConfig-1.1.8
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 6
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/eth9n-Mimic/icon.png
+- manifestVersion: 1
+  name: JustSomeGuy-DisableClientsideTimeout
+  authorName: JustSomeGuy
+  websiteUrl: https://thunderstore.io/c/repo/p/JustSomeGuy/DisableClientsideTimeout/
+  displayName: DisableClientsideTimeout
+  description: Disables the client-side Photon TimeoutDisconnect check to
+    potentially reduce random disconnects. Does not prevent server-side
+    timeouts.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662856
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/JustSomeGuy-DisableClientsideTimeout/icon.png
+- manifestVersion: 1
+  name: ColtG5-InflatableHammerBonk
+  authorName: ColtG5
+  websiteUrl: https://thunderstore.io/c/repo/p/ColtG5/InflatableHammerBonk/
+  displayName: InflatableHammerBonk
+  description: Adds a bonk sound effect when hitting stuff with the inflatable hammer!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662879
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ColtG5-InflatableHammerBonk/icon.png
+- manifestVersion: 1
+  name: Tansinator-Map_Value_Tracker
+  authorName: Tansinator
+  websiteUrl: https://thunderstore.io/c/repo/p/Tansinator/Map_Value_Tracker/
+  displayName: Map_Value_Tracker
+  description: Tracks all valuable items on the map. Updates in real-time.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662903
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Tansinator-Map_Value_Tracker/icon.png
+- manifestVersion: 1
+  name: Patrick-MapVote
+  authorName: Patrick
+  websiteUrl: https://thunderstore.io/c/repo/p/Patrick/MapVote/
+  displayName: MapVote
+  description: Allows you and your friends to vote for the next map to play!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662927
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-MenuLib-2.2.0
+    - Zehs-REPOLib-2.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Patrick-MapVote/icon.png
+- manifestVersion: 1
+  name: dig-Minimap
+  authorName: dig
+  websiteUrl: https://thunderstore.io/c/repo/p/dig/Minimap/
+  displayName: Minimap
+  description: Adds a customizable Minimap + allow spectators to see the map!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746225662953
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - nickklmao-MenuLib-2.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/cache/dig-Minimap/1.1.3/icon.png

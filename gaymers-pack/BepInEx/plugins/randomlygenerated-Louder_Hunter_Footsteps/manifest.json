@@ -1,0 +1,9 @@
+{
+    "name": "Louder_Hunter_Footsteps",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Makes Hunter footstep volume, range, and echo configurable via config file.",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }

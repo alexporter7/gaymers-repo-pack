@@ -1,0 +1,9 @@
+{
+    "name": "ZoomyEyes",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Adjust your default pupil size, zoom with visible pupil changes that players can see in real-time. Customizable and fully synchronized.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "HealDrone",
+    "version_number": "1.0.2",
+    "website_url": "",
+    "description": "Heal Drone mod based on in-game drone model, automatically follows players and provides continuous health regeneration.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100", 
+        "Zehs-REPOLib-1.4.0"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "ColoredNametags",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/zombieseatflesh7/REPO-ColoredNametags",
+    "description": "Colors the nametags based on player color",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

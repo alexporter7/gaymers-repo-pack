@@ -1,0 +1,333 @@
+{
+	"replacements": [
+		{
+			"matches": [
+			"*:door close01",
+			"*:door close02",
+			"*:door close03"
+			],
+			"sounds": [
+				{
+					"sound": "manor_doorclose.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+			"*:door open01",
+			"*:door open02",
+			"*:door open03"
+			],
+			"sounds": [
+				{
+					"sound": "manor_dooropen.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+			"*:door creak end01",
+			"*:door creak end02",
+			"*:door creak end03"
+			],
+			"sounds": [
+				{
+					"sound": "manor_doorcreak_end01.ogg",
+					"weight": 25
+				},
+				{
+					"sound": "manor_doorcreak_end02.ogg",
+					"weight": 50
+				},
+				{
+					"sound": "manor_doorcreak_end03.ogg",
+					"weight": 25
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:door hit01",
+				"*:door hit02",
+				"*:door hit03",
+				"*:door hit04"
+			],
+			"sounds": [
+				{
+					"sound": "manor_doorhit01.ogg",
+					"weight": 25
+				},
+				{
+					"sound": "manor_doorhit02.ogg",
+					"weight": 25
+				},
+				{
+					"sound": "manor_doorhit03.ogg",
+					"weight": 25
+				},
+				{
+					"sound": "manor_doorhit04.ogg",
+					"weight": 25
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:door hinge break01",
+				"*:door hinge break02",
+				"*:door hinge break03"
+			],
+			"sounds": [
+				{
+					"sound": "manor_doorhinge_break.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:door hit heavy01",
+				"*:door hit heavy02",
+				"*:door hit heavy03"
+			],
+			"sounds": [
+				{
+					"sound": "manor_doorhit_heavy.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:Hinge Audio:door creak loop"
+			],
+			"sounds": [
+				{
+					"sound": "manor_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:*:door creak loop"
+			],
+			"sounds": [
+				{
+					"sound": "manor_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"Hinge:Hinge Audio:door creak loop"
+			],
+			"sounds": [
+				{
+					"sound": "manor_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:arctic door open01",
+				"*:arctic door open02",
+				"*:arctic door open03"
+			],
+			"sounds": [
+				{
+					"sound": "arctic_dooropen01.ogg",
+					"weight": 50
+				},
+				{
+					"sound": "arctic_dooropen02.ogg",
+					"weight": 50
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:Hinge Audio:arctic door move loop"
+			],
+			"sounds": [
+				{
+					"sound": "arctic_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:*:arctic door move loop"
+			],
+			"sounds": [
+				{
+					"sound": "arctic_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"Arctic Door:Hinge Audio:arctic door move loop"
+			],
+			"sounds": [
+				{
+					"sound": "arctic_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:arctic door close01",
+				"*:arctic door close02",
+				"*:arctic door close03"
+			],
+			"sounds": [
+				{
+					"sound": "arctic_door_close01.ogg",
+					"weight": 50
+				},
+				{
+					"sound": "arctic_door_close02.ogg",
+					"weight": 50
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:arctic door close heavy01",
+				"*:arctic door close heavy02",
+				"*:arctic door close heavy03"
+			],
+			"sounds": [
+				{
+					"sound": "arctic_door_close_heavy01.ogg",
+					"weight": 50
+				},
+				{
+					"sound": "arctic_door_close_heavy02.ogg",
+					"weight": 50
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:arctic door move end01",
+				"*:arctic door move end02",
+				"*:arctic door move end03"
+			],
+			"sounds": [
+				{
+					"sound": "arctic_door_move_end01.ogg",
+					"weight": 30
+				},
+				{
+					"sound": "arctic_door_move_end02.ogg",
+					"weight": 30
+				},
+				{
+					"sound": "arctic_door_move_end03.ogg",
+					"weight": 40
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:wizard door open01",
+				"*:wizard door open02",
+				"*:wizard door open03"
+			],
+			"sounds": [
+				{
+					"sound": "wizard_door_open01.ogg",
+					"weight": 50
+				},
+				{
+					"sound": "wizard_door_open02.ogg",
+					"weight": 50
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:wizard door close01",
+				"*:wizard door close02",
+				"*:wizard door close03"
+			],
+			"sounds": [
+				{
+					"sound": "wizard_door_close01.ogg",
+					"weight": 50
+				},
+				{
+					"sound": "wizard_door_close02.ogg",
+					"weight": 50
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:wizard door close heavy01",
+				"*:wizard door close heavy02",
+				"*:wizard door close heavy03"
+			],
+			"sounds": [
+				{
+					"sound": "wizard_door_close_heavy01.ogg",
+					"weight": 50
+				},
+				{
+					"sound": "wizard_door_close_heavy02.ogg",
+					"weight": 50
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:Hinge Audio:wizard door move loop"
+			],
+			"sounds": [
+				{
+					"sound": "wizard_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:*:wizard door move loop"
+			],
+			"sounds": [
+				{
+					"sound": "wizard_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"Wizard Door Double:Hinge Audio:wizard door move loop"
+			],
+			"sounds": [
+				{
+					"sound": "wizard_door_creak_loop.ogg"
+				}
+			]
+		},
+		{
+			"matches": [
+				"*:wizard door move end01",
+				"*:wizard door move end02",
+				"*:wizard door move end03"
+			],
+			"sounds": [
+				{
+					"sound": "wizard_door_move_end01.ogg",
+					"weight": 30
+				},
+				{
+					"sound": "wizard_door_move_end02.ogg",
+					"weight": 30
+				},
+				{
+					"sound": "wizard_door_move_end03.ogg",
+					"weight": 40
+				}
+			]
+		}
+	]
+}

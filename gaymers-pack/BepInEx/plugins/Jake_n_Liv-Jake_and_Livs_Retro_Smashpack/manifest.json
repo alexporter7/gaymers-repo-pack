@@ -1,0 +1,9 @@
+{
+  "name": "Jake_and_Livs_Retro_Smashpack",
+  "description": "200+ NEW Valuables to collect! Including some from your favorite games!",
+  "version_number": "1.2.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": ""
+}

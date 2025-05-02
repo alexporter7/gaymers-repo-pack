@@ -1,0 +1,14 @@
+{
+	"replacements": [
+		{
+            "matches": [
+				"*:player revive",  
+		],
+			"sounds": [
+				{
+					"sound": "1UP.ogg"
+				}
+			]
+		}
+	]
+}

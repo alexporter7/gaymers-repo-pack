@@ -1,0 +1,9 @@
+{
+  "name": "Spawzes_Valuables",
+  "description": "Random stuff that I wanted to add to REPO. Currently adds 10 new balanced valuables, like Maxwell and the Gwa Gwa cat to find in the game!",
+  "version_number": "1.3.1",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": ""
+}

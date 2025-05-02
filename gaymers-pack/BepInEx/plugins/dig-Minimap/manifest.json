@@ -1,0 +1,10 @@
+{
+  "name": "Minimap",
+  "version_number": "1.1.3",
+  "website_url": "https://github.com",
+  "description": "Adds a customizable Minimap + allow spectators to see the map!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "nickklmao-MenuLib-2.3.0"
+  ]
+}

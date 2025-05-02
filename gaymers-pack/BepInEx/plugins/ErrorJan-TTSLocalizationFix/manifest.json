@@ -1,0 +1,10 @@
+{
+    "name": "TTSLocalizationFix",
+    "description": "Fixes the TTS in the R.E.P.O. Game, when it tries saying \"öäü\" or other characters. This is a BepInEx 5 mod",
+    "version_number": "1.0.0",
+    "dependencies":
+    [
+        "BepInEx-BepInExPack-5.4.2100"
+    ],
+    "website_url": "https://github.com/ErrorJan/REPOMod-TTSLocalizationFix/"
+}

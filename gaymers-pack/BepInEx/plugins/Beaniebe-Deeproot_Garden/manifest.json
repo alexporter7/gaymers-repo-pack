@@ -1,0 +1,10 @@
+{
+  "name": "Deeproot_Garden",
+  "version_number": "1.0.8",
+  "website_url": "",
+  "description": "A Vanilla themed garden level!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Zehs-REPOLib-2.0.1"
+   ]
+}

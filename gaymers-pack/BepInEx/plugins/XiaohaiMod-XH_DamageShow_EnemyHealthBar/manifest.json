@@ -1,0 +1,9 @@
+{
+    "name": "XH_DamageShow_EnemyHealthBar",
+    "version_number": "1.0.2",
+    "website_url": "",
+    "description": "Enemy Health Bar and Damage Value Display by Xiaohai",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
