@@ -1,0 +1,9 @@
+{
+  "name": "P90",
+  "description": "When faced with unknown horrors, what else can you do but bring a weapon of war? Adds a new gun item.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": ""
+}

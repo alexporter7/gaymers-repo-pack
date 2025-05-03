@@ -1,6 +1,10 @@
+## v1.0.3
+- Fixed some navmesh issues
+- Fixed some valuable positions
+- And pretty much whatever else was reported
 ## v1.0.2
-- Fixed cell doors being too small for the cart
 - Changed colliders on barrels
+- Fixed cell doors being too small for the cart
 - They are also the right way around now.. as funny as I thought it was
 - One of the modules had a hole
 - Fixed some collider shenanigans

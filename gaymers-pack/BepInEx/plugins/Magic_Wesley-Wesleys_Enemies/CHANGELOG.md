@@ -1,3 +1,6 @@
+## v1.2.3
+- Soldier ghost vanish effects are now networked properly
+- Misc fixes
 ## v1.2.0
 - Added a rare hunter variant "The Soldier" with a unique ability to accommodate the release of Redfield Bunker
 - Droid and Destroyers now have a smaller vision range

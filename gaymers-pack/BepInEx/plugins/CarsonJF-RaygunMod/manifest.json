@@ -1,0 +1,10 @@
+﻿{
+    "name": "RaygunMod",
+    "author": "CarsonJF",
+    "description": "Adds the Raygun from Call of Duty Zombies",
+    "version_number": "1.0.0",
+    "dependencies": [
+      "Zehs-REPOLib-1.4.0"
+    ],
+    "website_url": ""
+  }

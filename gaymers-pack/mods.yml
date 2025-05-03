@@ -41,7 +41,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Zehs-ExtractionPointConfirmButton/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Zehs-ExtractionPointConfirmButton/icon.png
 - manifestVersion: 1
   name: Zehs-REPOLib
   authorName: Zehs
@@ -63,7 +63,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Zehs-REPOLib/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Zehs-REPOLib/icon.png
 - manifestVersion: 1
   name: Bene-Satisfactory_Valuables
   authorName: Bene
@@ -85,7 +85,7 @@
     minor: 1
     patch: 6
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Bene-Satisfactory_Valuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Bene-Satisfactory_Valuables/icon.png
 - manifestVersion: 1
   name: Bene-Satisfactory_Items
   authorName: Bene
@@ -107,7 +107,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Bene-Satisfactory_Items/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Bene-Satisfactory_Items/icon.png
 - manifestVersion: 1
   name: GalaxyMods-MoreShopItems
   authorName: GalaxyMods
@@ -130,7 +130,7 @@
     minor: 3
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/GalaxyMods-MoreShopItems/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/GalaxyMods-MoreShopItems/icon.png
 - manifestVersion: 1
   name: surfknasen-Walkie_Talkies
   authorName: surfknasen
@@ -153,7 +153,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/surfknasen-Walkie_Talkies/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/surfknasen-Walkie_Talkies/icon.png
 - manifestVersion: 1
   name: nickklmao-MenuLib
   authorName: nickklmao
@@ -175,7 +175,7 @@
     minor: 4
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/nickklmao-MenuLib/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/nickklmao-MenuLib/icon.png
 - manifestVersion: 1
   name: nickklmao-REPOConfig
   authorName: nickklmao
@@ -198,7 +198,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/nickklmao-REPOConfig/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/nickklmao-REPOConfig/icon.png
 - manifestVersion: 1
   name: Propagande-1UPrevivesound
   authorName: Propagande
@@ -222,7 +222,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Propagande-1UPrevivesound/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Propagande-1UPrevivesound/icon.png
 - manifestVersion: 1
   name: loaforc-loaforcsSoundAPI_REPO
   authorName: loaforc
@@ -244,7 +244,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/loaforc-loaforcsSoundAPI_REPO/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/loaforc-loaforcsSoundAPI_REPO/icon.png
 - manifestVersion: 1
   name: loaforc-loaforcsSoundAPI
   authorName: loaforc
@@ -266,7 +266,7 @@
     minor: 0
     patch: 6
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/loaforc-loaforcsSoundAPI/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/loaforc-loaforcsSoundAPI/icon.png
 - manifestVersion: 1
   name: Hura-Hura_Instant_Revive
   authorName: Hura
@@ -289,7 +289,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Hura-Hura_Instant_Revive/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Hura-Hura_Instant_Revive/icon.png
 - manifestVersion: 1
   name: Tidaleus-MoreReviveHP
   authorName: Tidaleus
@@ -311,7 +311,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Tidaleus-MoreReviveHP/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Tidaleus-MoreReviveHP/icon.png
 - manifestVersion: 1
   name: AriIcedT-MinecraftStrongholdLevel
   authorName: AriIcedT
@@ -334,7 +334,7 @@
     minor: 6
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/AriIcedT-MinecraftStrongholdLevel/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/AriIcedT-MinecraftStrongholdLevel/icon.png
 - manifestVersion: 1
   name: NastyPablo-LateJoinSharedUpgradesByNastyPablo
   authorName: NastyPablo
@@ -356,7 +356,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/NastyPablo-LateJoinSharedUpgradesByNastyPablo/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/NastyPablo-LateJoinSharedUpgradesByNastyPablo/icon.png
 - manifestVersion: 1
   name: mattymatty-AsyncLoggers
   authorName: mattymatty
@@ -377,7 +377,7 @@
     minor: 1
     patch: 4
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/mattymatty-AsyncLoggers/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/mattymatty-AsyncLoggers/icon.png
 - manifestVersion: 1
   name: DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher
   authorName: DiFFoZ
@@ -399,7 +399,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher/icon.png
 - manifestVersion: 1
   name: PxntxrezStudio-ValuableInspector
   authorName: PxntxrezStudio
@@ -423,7 +423,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/PxntxrezStudio-ValuableInspector/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/PxntxrezStudio-ValuableInspector/icon.png
 - manifestVersion: 1
   name: Kistras-Valuables_Scanner
   authorName: Kistras
@@ -448,7 +448,7 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Kistras-Valuables_Scanner/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Kistras-Valuables_Scanner/icon.png
 - manifestVersion: 1
   name: Kistras-CustomDiscoverStateLib
   authorName: Kistras
@@ -472,7 +472,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Kistras-CustomDiscoverStateLib/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Kistras-CustomDiscoverStateLib/icon.png
 - manifestVersion: 1
   name: DunningKruger-DropGuide
   authorName: DunningKruger
@@ -494,7 +494,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/DunningKruger-DropGuide/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/DunningKruger-DropGuide/icon.png
 - manifestVersion: 1
   name: Einhornyordle-Repo_Leveling
   authorName: Einhornyordle
@@ -520,7 +520,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Einhornyordle-Repo_Leveling/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Einhornyordle-Repo_Leveling/icon.png
 - manifestVersion: 1
   name: Rangerbb275-Hospital_Level
   authorName: Rangerbb275
@@ -543,7 +543,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Rangerbb275-Hospital_Level/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Rangerbb275-Hospital_Level/icon.png
 - manifestVersion: 1
   name: khalliv-ShoppingListHUD
   authorName: khalliv
@@ -564,7 +564,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/khalliv-ShoppingListHUD/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/khalliv-ShoppingListHUD/icon.png
 - manifestVersion: 1
   name: ErrorJan-TTSLocalizationFix
   authorName: ErrorJan
@@ -587,7 +587,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ErrorJan-TTSLocalizationFix/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/ErrorJan-TTSLocalizationFix/icon.png
 - manifestVersion: 1
   name: Vg-UniTask
   authorName: Vg
@@ -609,7 +609,7 @@
     minor: 5
     patch: 10
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Vg-UniTask/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Vg-UniTask/icon.png
 - manifestVersion: 1
   name: ironbean-LevelNumberUI
   authorName: ironbean
@@ -631,7 +631,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ironbean-LevelNumberUI/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/ironbean-LevelNumberUI/icon.png
 - manifestVersion: 1
   name: zombieseatflesh7-ColoredNametags
   authorName: zombieseatflesh7
@@ -653,7 +653,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/zombieseatflesh7-ColoredNametags/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/zombieseatflesh7-ColoredNametags/icon.png
 - manifestVersion: 1
   name: BlueAmulet-REPO_HD
   authorName: BlueAmulet
@@ -675,7 +675,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/BlueAmulet-REPO_HD/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/BlueAmulet-REPO_HD/icon.png
 - manifestVersion: 1
   name: DaXcess-FixPluginTypesSerialization
   authorName: DaXcess
@@ -697,7 +697,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/DaXcess-FixPluginTypesSerialization/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/DaXcess-FixPluginTypesSerialization/icon.png
 - manifestVersion: 1
   name: MelanieMelicious-Cart_Lights_MelanieMelicious
   authorName: MelanieMelicious
@@ -720,7 +720,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/MelanieMelicious-Cart_Lights_MelanieMelicious/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/MelanieMelicious-Cart_Lights_MelanieMelicious/icon.png
 - manifestVersion: 1
   name: Ranily-Map_Expand
   authorName: Ranily
@@ -743,7 +743,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Ranily-Map_Expand/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Ranily-Map_Expand/icon.png
 - manifestVersion: 1
   name: Ugleh-Custom_Enemy_Location
   authorName: Ugleh
@@ -765,7 +765,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Ugleh-Custom_Enemy_Location/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Ugleh-Custom_Enemy_Location/icon.png
 - manifestVersion: 1
   name: Bydlo-TimerMod
   authorName: Bydlo
@@ -787,7 +787,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Bydlo-TimerMod/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Bydlo-TimerMod/icon.png
 - manifestVersion: 1
   name: x753_REPO-CustomColors
   authorName: x753_REPO
@@ -810,7 +810,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/x753_REPO-CustomColors/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/x753_REPO-CustomColors/icon.png
 - manifestVersion: 1
   name: OrtonLongGaming-FNAFLevel
   authorName: OrtonLongGaming
@@ -833,7 +833,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/OrtonLongGaming-FNAFLevel/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/OrtonLongGaming-FNAFLevel/icon.png
 - manifestVersion: 1
   name: OrtonLongGaming-FreddyEnemy
   authorName: OrtonLongGaming
@@ -857,7 +857,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/OrtonLongGaming-FreddyEnemy/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/OrtonLongGaming-FreddyEnemy/icon.png
 - manifestVersion: 1
   name: OrtonLongGaming-OrtonUtils
   authorName: OrtonLongGaming
@@ -879,7 +879,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/OrtonLongGaming-OrtonUtils/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/OrtonLongGaming-OrtonUtils/icon.png
 - manifestVersion: 1
   name: Hattorius-PostLevelSummary
   authorName: Hattorius
@@ -903,7 +903,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Hattorius-PostLevelSummary/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Hattorius-PostLevelSummary/icon.png
 - manifestVersion: 1
   name: Scriptova-Revive_Potion
   authorName: Scriptova
@@ -927,7 +927,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Scriptova-Revive_Potion/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Scriptova-Revive_Potion/icon.png
 - manifestVersion: 1
   name: Lunoid-REPO_Alchemy
   authorName: Lunoid
@@ -950,7 +950,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Lunoid-REPO_Alchemy/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Lunoid-REPO_Alchemy/icon.png
 - manifestVersion: 1
   name: Yuckers-Unique_Potions
   authorName: Yuckers
@@ -974,7 +974,7 @@
     minor: 6
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Yuckers-Unique_Potions/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Yuckers-Unique_Potions/icon.png
 - manifestVersion: 1
   name: WildDucki-GtaVDeathSound
   authorName: WildDucki
@@ -997,7 +997,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/WildDucki-GtaVDeathSound/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/WildDucki-GtaVDeathSound/icon.png
 - manifestVersion: 1
   name: silhygames-FUMO
   authorName: silhygames
@@ -1019,7 +1019,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/silhygames-FUMO/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/silhygames-FUMO/icon.png
 - manifestVersion: 1
   name: Kawasaki-ConsolesX
   authorName: Kawasaki
@@ -1041,7 +1041,7 @@
     minor: 0
     patch: 6
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Kawasaki-ConsolesX/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Kawasaki-ConsolesX/icon.png
 - manifestVersion: 1
   name: discjenny-CartSpeedSync
   authorName: discjenny
@@ -1065,7 +1065,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/discjenny-CartSpeedSync/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/discjenny-CartSpeedSync/icon.png
 - manifestVersion: 1
   name: flipf17-OpenExtractionWithCart
   authorName: flipf17
@@ -1088,7 +1088,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/flipf17-OpenExtractionWithCart/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/flipf17-OpenExtractionWithCart/icon.png
 - manifestVersion: 1
   name: KatKlerb-REPOCartDecorations
   authorName: KatKlerb
@@ -1111,7 +1111,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/KatKlerb-REPOCartDecorations/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/KatKlerb-REPOCartDecorations/icon.png
 - manifestVersion: 1
   name: itsUndefined-Shop_Items_Spawn_in_Level
   authorName: itsUndefined
@@ -1134,7 +1134,7 @@
     minor: 7
     patch: 17
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/itsUndefined-Shop_Items_Spawn_in_Level/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/itsUndefined-Shop_Items_Spawn_in_Level/icon.png
 - manifestVersion: 1
   name: soundedsquash-Clear_UI
   authorName: soundedsquash
@@ -1158,7 +1158,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/soundedsquash-Clear_UI/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/soundedsquash-Clear_UI/icon.png
 - manifestVersion: 1
   name: ColtG5-BoomboxCart
   authorName: ColtG5
@@ -1183,7 +1183,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ColtG5-BoomboxCart/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/ColtG5-BoomboxCart/icon.png
 - manifestVersion: 1
   name: Lazarus-BetterTruckHeals
   authorName: Lazarus
@@ -1207,7 +1207,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Lazarus-BetterTruckHeals/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Lazarus-BetterTruckHeals/icon.png
 - manifestVersion: 1
   name: Flopper-ImprovedStamina
   authorName: Flopper
@@ -1229,7 +1229,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Flopper-ImprovedStamina/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Flopper-ImprovedStamina/icon.png
 - manifestVersion: 1
   name: Caigan-Tokucade_Valuables
   authorName: Caigan
@@ -1252,7 +1252,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Caigan-Tokucade_Valuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Caigan-Tokucade_Valuables/icon.png
 - manifestVersion: 1
   name: XiaohaiMod-XH_DamageShow_EnemyHealthBar
   authorName: XiaohaiMod
@@ -1274,7 +1274,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/XiaohaiMod-XH_DamageShow_EnemyHealthBar/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/XiaohaiMod-XH_DamageShow_EnemyHealthBar/icon.png
 - manifestVersion: 1
   name: Magic_Wesley-Wesleys_Enemies
   authorName: Magic_Wesley
@@ -1285,7 +1285,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1746225661281
+  installedAtTime: 1746238305315
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1295,9 +1295,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 2
+    patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Magic_Wesley-Wesleys_Enemies/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Magic_Wesley-Wesleys_Enemies/icon.png
 - manifestVersion: 1
   name: Tolian-Tolian_Levels
   authorName: Tolian
@@ -1320,7 +1320,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Tolian-Tolian_Levels/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Tolian-Tolian_Levels/icon.png
 - manifestVersion: 1
   name: BULLETBOT-ScaleInCart
   authorName: BULLETBOT
@@ -1342,7 +1342,7 @@
     minor: 1
     patch: 8
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/BULLETBOT-ScaleInCart/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/BULLETBOT-ScaleInCart/icon.png
 - manifestVersion: 1
   name: Spawze-Spawzes_Valuables
   authorName: Spawze
@@ -1365,7 +1365,7 @@
     minor: 3
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Spawze-Spawzes_Valuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Spawze-Spawzes_Valuables/icon.png
 - manifestVersion: 1
   name: eXish-ForgottenDelivery
   authorName: eXish
@@ -1388,7 +1388,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/eXish-ForgottenDelivery/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/eXish-ForgottenDelivery/icon.png
 - manifestVersion: 1
   name: FluxTeam-WiiShopChannelMusic
   authorName: FluxTeam
@@ -1411,7 +1411,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/FluxTeam-WiiShopChannelMusic/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/FluxTeam-WiiShopChannelMusic/icon.png
 - manifestVersion: 1
   name: caleb054126-ROBLOXValuables
   authorName: caleb054126
@@ -1433,7 +1433,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/caleb054126-ROBLOXValuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/caleb054126-ROBLOXValuables/icon.png
 - manifestVersion: 1
   name: WhalesAllAround-CartReclaim
   authorName: WhalesAllAround
@@ -1456,7 +1456,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/WhalesAllAround-CartReclaim/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/WhalesAllAround-CartReclaim/icon.png
 - manifestVersion: 1
   name: Beaniebe-Deeproot_Garden
   authorName: Beaniebe
@@ -1479,7 +1479,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Beaniebe-Deeproot_Garden/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Beaniebe-Deeproot_Garden/icon.png
 - manifestVersion: 1
   name: NoSpawnn-BetterChatBox
   authorName: NoSpawnn
@@ -1501,7 +1501,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/NoSpawnn-BetterChatBox/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/NoSpawnn-BetterChatBox/icon.png
 - manifestVersion: 1
   name: UnloadedHangar-ChatBox
   authorName: UnloadedHangar
@@ -1523,7 +1523,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/UnloadedHangar-ChatBox/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/UnloadedHangar-ChatBox/icon.png
 - manifestVersion: 1
   name: GarStudios-Oiia_Cat_Valuable
   authorName: GarStudios
@@ -1545,7 +1545,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/GarStudios-Oiia_Cat_Valuable/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/GarStudios-Oiia_Cat_Valuable/icon.png
 - manifestVersion: 1
   name: Enchanted_Games-CustomGrabColor
   authorName: Enchanted_Games
@@ -1569,7 +1569,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Enchanted_Games-CustomGrabColor/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Enchanted_Games-CustomGrabColor/icon.png
 - manifestVersion: 1
   name: propheteer-Pack_Of_Nostalgia
   authorName: propheteer
@@ -1591,7 +1591,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/propheteer-Pack_Of_Nostalgia/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/propheteer-Pack_Of_Nostalgia/icon.png
 - manifestVersion: 1
   name: randomlygenerated-Louder_Hunter_Footsteps
   authorName: randomlygenerated
@@ -1613,7 +1613,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/randomlygenerated-Louder_Hunter_Footsteps/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/randomlygenerated-Louder_Hunter_Footsteps/icon.png
 - manifestVersion: 1
   name: GreatColtini-MinecraftAdditions
   authorName: GreatColtini
@@ -1635,7 +1635,7 @@
     minor: 0
     patch: 7
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/GreatColtini-MinecraftAdditions/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/GreatColtini-MinecraftAdditions/icon.png
 - manifestVersion: 1
   name: KatKlerb-REPOMON
   authorName: KatKlerb
@@ -1657,7 +1657,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/KatKlerb-REPOMON/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/KatKlerb-REPOMON/icon.png
 - manifestVersion: 1
   name: Jake_n_Liv-Jake_and_Livs_Retro_Smashpack
   authorName: Jake_n_Liv
@@ -1679,7 +1679,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Jake_n_Liv-Jake_and_Livs_Retro_Smashpack/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Jake_n_Liv-Jake_and_Livs_Retro_Smashpack/icon.png
 - manifestVersion: 1
   name: XiaohaiMod-BetterAim
   authorName: XiaohaiMod
@@ -1702,7 +1702,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/XiaohaiMod-BetterAim/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/XiaohaiMod-BetterAim/icon.png
 - manifestVersion: 1
   name: TheASMRsonist-BetterDoorSounds
   authorName: TheASMRsonist
@@ -1727,7 +1727,7 @@
     minor: 2
     patch: 4
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/TheASMRsonist-BetterDoorSounds/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/TheASMRsonist-BetterDoorSounds/icon.png
 - manifestVersion: 1
   name: Lazarus-NoGunSpread
   authorName: Lazarus
@@ -1749,7 +1749,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Lazarus-NoGunSpread/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Lazarus-NoGunSpread/icon.png
 - manifestVersion: 1
   name: ColtG5-LegoGnomes
   authorName: ColtG5
@@ -1771,7 +1771,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ColtG5-LegoGnomes/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/ColtG5-LegoGnomes/icon.png
 - manifestVersion: 1
   name: Clementinise-ZoomyEyes
   authorName: Clementinise
@@ -1794,7 +1794,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Clementinise-ZoomyEyes/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Clementinise-ZoomyEyes/icon.png
 - manifestVersion: 1
   name: u2vr_Team-BetterWeaponBalance
   authorName: u2vr_Team
@@ -1817,7 +1817,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/u2vr_Team-BetterWeaponBalance/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/u2vr_Team-BetterWeaponBalance/icon.png
 - manifestVersion: 1
   name: tupperware-MoreItems
   authorName: tupperware
@@ -1839,7 +1839,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/tupperware-MoreItems/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/tupperware-MoreItems/icon.png
 - manifestVersion: 1
   name: Nikki-AbioticFactorValuables
   authorName: Nikki
@@ -1862,7 +1862,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Nikki-AbioticFactorValuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Nikki-AbioticFactorValuables/icon.png
 - manifestVersion: 1
   name: prxphet-BetterTumble
   authorName: prxphet
@@ -1886,7 +1886,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/prxphet-BetterTumble/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/prxphet-BetterTumble/icon.png
 - manifestVersion: 1
   name: PaintedThornStudios-MCZombieMod
   authorName: PaintedThornStudios
@@ -1909,7 +1909,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/PaintedThornStudios-MCZombieMod/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/PaintedThornStudios-MCZombieMod/icon.png
 - manifestVersion: 1
   name: PaintedThornStudios-PaintedUtils
   authorName: PaintedThornStudios
@@ -1932,7 +1932,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/PaintedThornStudios-PaintedUtils/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/PaintedThornStudios-PaintedUtils/icon.png
 - manifestVersion: 1
   name: Bananinha-NoForcedDropMod
   authorName: Bananinha
@@ -1956,7 +1956,7 @@
     minor: 0
     patch: 6
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Bananinha-NoForcedDropMod/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Bananinha-NoForcedDropMod/icon.png
 - manifestVersion: 1
   name: Hamunii-DetourContext_Dispose_Fix
   authorName: Hamunii
@@ -1979,7 +1979,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Hamunii-DetourContext_Dispose_Fix/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Hamunii-DetourContext_Dispose_Fix/icon.png
 - manifestVersion: 1
   name: Hamunii-AutoHookGenPatcher
   authorName: Hamunii
@@ -2003,7 +2003,7 @@
     minor: 0
     patch: 6
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Hamunii-AutoHookGenPatcher/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Hamunii-AutoHookGenPatcher/icon.png
 - manifestVersion: 1
   name: BitterDoes-Effective_Audio
   authorName: BitterDoes
@@ -2025,7 +2025,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/BitterDoes-Effective_Audio/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/BitterDoes-Effective_Audio/icon.png
 - manifestVersion: 1
   name: PearlGalaxy-NintendoValuables
   authorName: PearlGalaxy
@@ -2047,7 +2047,7 @@
     minor: 3
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/PearlGalaxy-NintendoValuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/PearlGalaxy-NintendoValuables/icon.png
 - manifestVersion: 1
   name: nickklmao-JustRetry
   authorName: nickklmao
@@ -2069,7 +2069,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/nickklmao-JustRetry/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/nickklmao-JustRetry/icon.png
 - manifestVersion: 1
   name: Magic_Wesley-Wesleys_Levels
   authorName: Magic_Wesley
@@ -2080,7 +2080,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1746225662325
+  installedAtTime: 1746238305258
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2090,9 +2090,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Magic_Wesley-Wesleys_Levels/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Magic_Wesley-Wesleys_Levels/icon.png
 - manifestVersion: 1
   name: Flanagan-BetterVoiceRange
   authorName: Flanagan
@@ -2114,7 +2114,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Flanagan-BetterVoiceRange/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Flanagan-BetterVoiceRange/icon.png
 - manifestVersion: 1
   name: Meliodin-MinecraftMod
   authorName: Meliodin
@@ -2136,7 +2136,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Meliodin-MinecraftMod/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Meliodin-MinecraftMod/icon.png
 - manifestVersion: 1
   name: DragonModders-RDD_Valuables
   authorName: DragonModders
@@ -2158,7 +2158,7 @@
     minor: 1
     patch: 9
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/DragonModders-RDD_Valuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/DragonModders-RDD_Valuables/icon.png
 - manifestVersion: 1
   name: MinamiIzumiVT-ZeldaValuables
   authorName: MinamiIzumiVT
@@ -2180,7 +2180,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/MinamiIzumiVT-ZeldaValuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/MinamiIzumiVT-ZeldaValuables/icon.png
 - manifestVersion: 1
   name: CachaloteEnjoyer-BladeOfChaos
   authorName: CachaloteEnjoyer
@@ -2202,7 +2202,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/CachaloteEnjoyer-BladeOfChaos/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/CachaloteEnjoyer-BladeOfChaos/icon.png
 - manifestVersion: 1
   name: dig-BetterDirectionalDrones
   authorName: dig
@@ -2224,7 +2224,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/dig-BetterDirectionalDrones/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/dig-BetterDirectionalDrones/icon.png
 - manifestVersion: 1
   name: linkoid-DreadHeadDuck
   authorName: linkoid
@@ -2247,7 +2247,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/linkoid-DreadHeadDuck/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/linkoid-DreadHeadDuck/icon.png
 - manifestVersion: 1
   name: TheRavenNest-UnlimitedOrbs
   authorName: TheRavenNest
@@ -2270,7 +2270,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/TheRavenNest-UnlimitedOrbs/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/TheRavenNest-UnlimitedOrbs/icon.png
 - manifestVersion: 1
   name: amcdev-MoneybagProtect
   authorName: amcdev
@@ -2293,7 +2293,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/amcdev-MoneybagProtect/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/amcdev-MoneybagProtect/icon.png
 - manifestVersion: 1
   name: Disciple-Pokeball_Valuables
   authorName: Disciple
@@ -2315,7 +2315,7 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Disciple-Pokeball_Valuables/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Disciple-Pokeball_Valuables/icon.png
 - manifestVersion: 1
   name: XiaohaiMod-HealDrone
   authorName: XiaohaiMod
@@ -2339,7 +2339,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/XiaohaiMod-HealDrone/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/XiaohaiMod-HealDrone/icon.png
 - manifestVersion: 1
   name: GalaxyMods-MoreValuablesUpgrade
   authorName: GalaxyMods
@@ -2363,7 +2363,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/GalaxyMods-MoreValuablesUpgrade/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/GalaxyMods-MoreValuablesUpgrade/icon.png
 - manifestVersion: 1
   name: BULLETBOT-MoreUpgrades
   authorName: BULLETBOT
@@ -2386,7 +2386,7 @@
     minor: 4
     patch: 8
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/BULLETBOT-MoreUpgrades/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/BULLETBOT-MoreUpgrades/icon.png
 - manifestVersion: 1
   name: Rangerbb275-Rifle
   authorName: Rangerbb275
@@ -2408,7 +2408,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Rangerbb275-Rifle/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Rangerbb275-Rifle/icon.png
 - manifestVersion: 1
   name: NEVAR-OiiaCatMusicBoxValuable
   authorName: NEVAR
@@ -2431,7 +2431,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/NEVAR-OiiaCatMusicBoxValuable/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/NEVAR-OiiaCatMusicBoxValuable/icon.png
 - manifestVersion: 1
   name: Ernedev-Fighter_Drones
   authorName: Ernedev
@@ -2454,7 +2454,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Ernedev-Fighter_Drones/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Ernedev-Fighter_Drones/icon.png
 - manifestVersion: 1
   name: Lluciocc-GamblingMachine
   authorName: Lluciocc
@@ -2478,7 +2478,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Lluciocc-GamblingMachine/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Lluciocc-GamblingMachine/icon.png
 - manifestVersion: 1
   name: eth9n-Mimic
   authorName: eth9n
@@ -2503,20 +2503,20 @@
     minor: 1
     patch: 6
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/eth9n-Mimic/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/eth9n-Mimic/icon.png
 - manifestVersion: 1
   name: JustSomeGuy-DisableClientsideTimeout
   authorName: JustSomeGuy
   websiteUrl: https://thunderstore.io/c/repo/p/JustSomeGuy/DisableClientsideTimeout/
   displayName: DisableClientsideTimeout
   description: Disables the client-side Photon TimeoutDisconnect check to
-    potentially reduce random disconnects. Does not prevent server-side
-    timeouts.
+    potentially reduce random disconnects. Now includes a configuration option
+    to toggle the patch. Does not prevent server-side timeouts.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1746225662856
+  installedAtTime: 1746238305171
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2524,10 +2524,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 1
+    minor: 1
+    patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/JustSomeGuy-DisableClientsideTimeout/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/JustSomeGuy-DisableClientsideTimeout/icon.png
 - manifestVersion: 1
   name: ColtG5-InflatableHammerBonk
   authorName: ColtG5
@@ -2549,7 +2549,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/ColtG5-InflatableHammerBonk/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/ColtG5-InflatableHammerBonk/icon.png
 - manifestVersion: 1
   name: Tansinator-Map_Value_Tracker
   authorName: Tansinator
@@ -2571,7 +2571,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Tansinator-Map_Value_Tracker/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Tansinator-Map_Value_Tracker/icon.png
 - manifestVersion: 1
   name: Patrick-MapVote
   authorName: Patrick
@@ -2595,7 +2595,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/_profile_update/BepInEx/plugins/Patrick-MapVote/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/Patrick-MapVote/icon.png
 - manifestVersion: 1
   name: dig-Minimap
   authorName: dig
@@ -2618,4 +2618,71 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: /home/alex/.config/r2modmanPlus-local/REPO/cache/dig-Minimap/1.1.3/icon.png
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/dig-Minimap/icon.png
+- manifestVersion: 1
+  name: CarsonJF-RaygunMod
+  authorName: CarsonJF
+  websiteUrl: https://thunderstore.io/c/repo/p/CarsonJF/RaygunMod/
+  displayName: RaygunMod
+  description: Adds the Raygun from Call of Duty Zombies
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746238508480
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.4.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/CarsonJF-RaygunMod/icon.png
+- manifestVersion: 1
+  name: DougHRito-P90
+  authorName: DougHRito
+  websiteUrl: https://thunderstore.io/c/repo/p/DougHRito/P90/
+  displayName: P90
+  description: When faced with unknown horrors, what else can you do but bring a
+    weapon of war? Adds a new gun item.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746238584814
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-1.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/profiles/gaymers-pack/BepInEx/plugins/DougHRito-P90/icon.png
+- manifestVersion: 1
+  name: Ezekiel0-AK47
+  authorName: Ezekiel0
+  websiteUrl: https://thunderstore.io/c/repo/p/Ezekiel0/AK47/
+  displayName: AK47
+  description: Just AK-47
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1746238737320
+  loaders: []
+  dependencies:
+    - Zehs-REPOLib-2.0.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: /home/alex/.config/r2modmanPlus-local/REPO/cache/Ezekiel0-AK47/1.0.0/icon.png
