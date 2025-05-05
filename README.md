@@ -2,7 +2,12 @@
 
 Just a mod pack made to play with friends
 
-# Changelog
+### Version 1.1.5
+##### Release Date: 2025-05-05
+##### Profile Code: 0196a099-f3d4-2359-fccd-6bad0236343a
+##### Mod Updates
+- BetterTruckHeals will updated to: 1.2.1
+- NoGunSpread will updated to: 1.0.3
 
 ### Version 1.1.4
 ##### Release Date: 2025-05-04
