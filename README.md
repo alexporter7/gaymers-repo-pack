@@ -2,6 +2,11 @@
 
 Just a mod pack made to play with friends
 
+## Installing and Updating
+When installing or updating the pack, make sure to create a **NEW** profile instead up updating the existing. It shouldn't cause problems but sometimes can cause issues when new mods are added and especially when mods are removed.
+
+## Versions
+
 ### Version 1.1.5
 ##### Release Date: 2025-05-05
 ##### Profile Code: 0196a099-f3d4-2359-fccd-6bad0236343a
