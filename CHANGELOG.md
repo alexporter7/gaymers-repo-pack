@@ -1,5 +1,13 @@
 # Changelog
 
+### Version 1.2.4
+#### Release Date: 2025-05-06
+#### Profile Code: 0196a7a2-405b-4847-4d90-0e5f5c2beb42
+#### Config Changes
+##### BetterTruckHeals
+*General*
+- Changed UsePercentageHeal from false => true
+
 ### Version 1.2.3
 #### Release Date: 2025-05-06
 #### Profile Code: 0196a782-9893-b57e-e03d-4a8ead1efa83
