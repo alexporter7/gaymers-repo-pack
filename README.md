@@ -7,6 +7,43 @@ When installing or updating the pack, make sure to create a **NEW** profile inst
 
 ## Versions
 
+### Version 1.2.0
+##### Release Date: 2025-05-06
+##### Profile Code: 0196a63f-8d54-7c8e-8872-501f9829f6d4
+##### Mod Additions
+- Added Dafis Mega Monster Pack Emporium REPO Edition
+- Added Enemy And Valuable Spawn Manager
+- Added DeathHeadHopper
+- Added BerserkerEnemies
+- Added RobeSinging
+- Added SillyValuables
+- Added Five_Gum_Huntsman
+- Added ValuableCans
+- Added FunnyItems
+- Added Dafis Mega Valuables Pack Emporium
+- Added JBLSpeaker
+- Added DontTouchTheSun
+- Added Food Valuables Pack
+- Added Roblox Death Sound
+- Added Hallows Valuables
+- Added FrenchHuntsman
+- Added ShootDaWhoop
+- Added Hate Potion
+- Added Player Scaling
+##### Configuration Changes
+###### BerserkerEnemies
+- Changed Starting Level from 9 => 10
+- Changed Health from 2000 => 1000
+- Changed Gusher from true => false
+###### Enemy and Valuable Spawn Manager
+- Disabled Gusher (unsure if this translates between profiles, it's unlikely as there's no config)
+###### Player Scaling
+- Changed Enemies Scaling Multiplier from 1 => 1.5
+- Changed Player Scaling Minimum from 4 => 1
+- Changed Player Scaling Divisor from 4 => 2
+- Changed Map Scaling Multiplier from 1 => 2
+- Changed Valuables Scaling from 1 => 1.5
+
 ### Version 1.1.5
 ##### Release Date: 2025-05-05
 ##### Profile Code: 0196a099-f3d4-2359-fccd-6bad0236343a
