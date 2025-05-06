@@ -9,7 +9,7 @@ When installing or updating the pack, make sure to create a **NEW** profile inst
 
 ### Version 1.2.1
 ##### Release Date: 2025-05-06
-##### Profile Code: 
+##### Profile Code: 0196a670-4e57-cadc-2906-b3363331e5a1
 ##### Mod Updates
 - MinecraftStrongholdLevel updated to: 1.7.2
 - BetterTruckHeals updated to: 2.2.1
