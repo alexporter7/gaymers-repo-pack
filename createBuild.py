@@ -4,10 +4,14 @@
 #     "description": 
 
 import json
+import os
+import zipfile
 
 NAME = "GaymersPack"
 WEBSITE = "https://github.com/alexporter7/gaymers-repo-pack"
 DESCRIPTION = "Modpack made to play with some friends"
+
+PACK_FILES = ["manifest.json", "README.md", "CHANGELOG.md", "icon.png"]
 
 releaseManifest = {
     "name": NAME,
@@ -30,7 +34,17 @@ def exportManifest():
     manifestFile.write(json.dumps(releaseManifest))
 
 
+def createZipFile():
+    packZip = zipfile.ZipFile(NAME + ".zip", 'w')
+    for packFile in PACK_FILES:
+        if os.path.exists(packFile):
+            packZip.write(packFile, os.path.basename(packFile))
+        else:
+            print(f"File not found: {packFile}")
+
+
 releaseManifest["version_number"] = input("Release Version> ")
 parseDependencies()
 exportManifest()
+createZipFile()
 

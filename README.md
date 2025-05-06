@@ -5,7 +5,29 @@ Just a mod pack made to play with friends
 ## Installing and Updating
 When installing or updating the pack, make sure to create a **NEW** profile instead up updating the existing. It shouldn't cause problems but sometimes can cause issues when new mods are added and especially when mods are removed.
 
+## Config Changes
+As far as I'm aware, there isn't a way to include the very many configuration changes I've made to the pack. There are two things you can do
+- Use the profile code included in each release
+- Copy the config files from the github repo found here: https://github.com/alexporter7/gaymers-repo-pack
+
 ## Versions
+
+### Version 1.2.3
+##### Release Date: 2025-05-06
+##### Profile Code: 0196a782-9893-b57e-e03d-4a8ead1efa83
+##### Pack Changes
+- Added config changes update 1.1.0
+- Edited createBuild.py to zip up file
+- Added new icon.png
+##### Mod Updates
+- SillyValuables updated to: 1.5.1
+
+
+### Version 1.2.2
+##### Release Date: 2025-05-06
+##### Profile Code: 0196a713-b3cf-e8bd-13c7-ddd4ae311dd3
+##### Mod Updates
+- SillyValuables updated to: 1.5.0
 
 ### Version 1.2.1
 ##### Release Date: 2025-05-06
@@ -90,7 +112,69 @@ When installing or updating the pack, make sure to create a **NEW** profile inst
 
 ### Version 1.1.0
 ##### Configuration Changes
-- Overhauled configuration
+###### BetterVoiceRange
+- Changed LowPassFallOffMultiplier from 1 => 1.2
+- Changed the LowPassVolumeMultiplier from 0.5 => 0.8
+###### MoreUpgrades
+**Increased Valuables Upgrade**
+- Changed "Max Amount" from 2 => 5
+- Changed "Max Amount In Shop" from 2 => 5
+- Changed "Increase Factor" from 1.1 => 1.05
+**Map Enemy Tracker**
+- Changed "Allow Team Upgrades" from false => true
+- Changed "Sync Team Upgrades" from false => true
+**Sprint Usage**
+- Changed "Allow Team Upgrades" from false => true
+- Changed "Sync Team Upgrades" from false => true
+###### ScaleInCart
+**General**
+- Changed "Scale Speed" from 0.45 => 0.6
+**Mass Scaling**
+- Changed "Default Scale" from 0.8 => 0.6
+- Changed Scale factors from default to: "1.0=0.6, 1.5=0.55, 2.0=0.5, 2.5=0.45, 3.0=0.4, 3.5=0.375, 4.0=0.35, 4.5=0.325, 5.0=0.3125"
+###### MCZombieMod
+**Zombie**
+- Changed "Player Damage" from 45 => 40
+- Changed "Player Damage Cooldown" from 3 => 1
+- Changed "Flesh Drop Amount Min" from 1 => 2
+- Changed "Flesh Heal Amount" from 10 => 30
+###### Walkie Talkie Mod
+**Battery**
+- Changed "Max Battery" from 40 => 80
+###### HealDrone
+**HealDrone**
+- Changed healAmount from 1 => 2
+- Changed BatteryDrainRate from 0.5 => 0.25
+###### Forgotten Delivery
+**Spawn Settings**
+- Changed spawnChance from 50 => 100
+###### ImprovedStamina
+**Stamina Settings**
+- Changed MaxRegenRate from 8 => 10
+- Changed RegenRampUpTime from 3 => 5
+###### Kistras-Scanner
+**Key Binds**
+- Changed "Scanner Key" from F => V
+**Options**
+- Changed Cooldown from 10 => 8
+###### Better Truck Heals
+**General**
+- Changed HealAmount from 50 => 80
+###### Cart Light
+**Light Settings**
+- Changed Brightness from 3 => 5
+- Changed "Light Color" from #FFF888 => #4C69FC
+###### Minimap
+**Dimensions**
+- Changed Width from 375 => 235
+- Changed Height from 375 => 235
+###### More Revivie HP
+**General**
+- Changed ExtraHealth from 19 => 79
+###### UniquePotions
+**Health Potions**
+- Changed "Healing Multiplayer" from 20 => 80
+- Changed "Healing Solo" from 40 => 120
 
 ### Version 1.0.0
 Release
