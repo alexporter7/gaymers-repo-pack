@@ -7,6 +7,18 @@ When installing or updating the pack, make sure to create a **NEW** profile inst
 
 ## Versions
 
+### Version 1.2.1
+##### Release Date: 2025-05-06
+##### Profile Code: 
+##### Mod Updates
+- MinecraftStrongholdLevel updated to: 1.7.2
+- BetterTruckHeals updated to: 2.2.1
+- Wesleys Levels updated to: 1.0.4
+##### Configuration Changes
+###### Player Scaling
+- Changed Max Enemy Density from 0.8 => 1
+
+
 ### Version 1.2.0
 ##### Release Date: 2025-05-06
 ##### Profile Code: 0196a63f-8d54-7c8e-8872-501f9829f6d4
