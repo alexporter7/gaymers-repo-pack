@@ -1,5 +1,15 @@
 # Changelog
 
+### Version 1.2.7
+#### Release Date: 2025-05-07
+#### Profile Code: 0196aca6-af14-0314-397b-ba010bd24194
+#### Mod Updates
+- Satisfactory_Valuables updated to: 1.2.0
+- MinecraftStrongholdLevel updated to: 1.7.3
+- REPO_Alchemy updated to: 1.1.1
+- GamblingMachine updated to: 1.0.4
+- SillyValuables updated to: 1.5.3
+
 ### Version 1.2.6
 #### Release Date: 2025-05-06
 #### Profile Code: 0196a8ea-9ad1-0aa4-a284-a1fdd8f5be35
