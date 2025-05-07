@@ -1,7 +1,7 @@
 BepInEx-BepInExPack-5.4.2100
 Zehs-ExtractionPointConfirmButton-1.1.0
 Zehs-REPOLib-2.1.0
-Bene-Satisfactory_Valuables-1.1.6
+Bene-Satisfactory_Valuables-1.2.0
 Bene-Satisfactory_Items-1.0.5
 GalaxyMods-MoreShopItems-1.3.3
 surfknasen-Walkie_Talkies-1.1.2
@@ -12,7 +12,7 @@ loaforc-loaforcsSoundAPI_REPO-1.0.1
 loaforc-loaforcsSoundAPI-2.0.6
 Hura-Hura_Instant_Revive-1.0.0
 Tidaleus-MoreReviveHP-1.0.1
-AriIcedT-MinecraftStrongholdLevel-1.7.2
+AriIcedT-MinecraftStrongholdLevel-1.7.3
 NastyPablo-LateJoinSharedUpgradesByNastyPablo-1.1.2
 mattymatty-AsyncLoggers-2.1.4
 DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1
@@ -39,7 +39,7 @@ OrtonLongGaming-FreddyEnemy-1.0.3
 OrtonLongGaming-OrtonUtils-1.0.0
 Hattorius-PostLevelSummary-2.0.0
 Scriptova-Revive_Potion-1.0.2
-Lunoid-REPO_Alchemy-1.1.0
+Lunoid-REPO_Alchemy-1.1.1
 Yuckers-Unique_Potions-0.6.3
 WildDucki-GtaVDeathSound-1.0.0
 silhygames-FUMO-1.0.1
@@ -106,7 +106,7 @@ BULLETBOT-MoreUpgrades-1.4.8
 Rangerbb275-Rifle-2.1.1
 NEVAR-OiiaCatMusicBoxValuable-1.0.0
 Ernedev-Fighter_Drones-1.0.4
-Lluciocc-GamblingMachine-1.0.3
+Lluciocc-GamblingMachine-1.0.5
 eth9n-Mimic-1.1.6
 JustSomeGuy-DisableClientsideTimeout-1.1.0
 ColtG5-InflatableHammerBonk-1.0.4
@@ -120,17 +120,18 @@ Dafini-Dafis_Mega_Monster_Pack_Emporium_REPO_Edition-1.0.22
 soundedsquash-Enemy_And_Valuable_Spawn_Manager-0.5.5
 Cronchy-DeathHeadHopper-2.1.4
 FNKT_Labs-BerserkerEnemies-1.3.0
-Sangrento-SillyValuables-1.5.1
+Sangrento-SillyValuables-1.5.3
 CradleTheManeater-Five_Gum_Huntsman-1.0.0
 AriIcedT-ValuableCans-1.0.3
 Ako-FunnyItems-1.3.0
-Dafini-Dafis_Mega_Valuables_Pack_Emporium-1.2.21
 CarsonJF-JBLSpeaker-1.1.0
 SpoopyShade-DontTouchTheSun-1.1.1
 AlexKuz-Food_Valubles_Pack-1.0.4
 Lunar-Roblox_Death_Sound-1.0.1
 HallowsMods-HallowsValuables-2.0.0
 atomiclabs-frenchHuntsman-1.1.0
-LanguidRat-ShootDaWhoop-1.0.5
 Spoopylocal-Hate_Potion-1.1.0
 Redfops-PlayerScaling-1.2.0
+WhalesAllAround-MikuMikuBeamer-1.0.1
+TitanVortex-BigNuke-1.0.1
+BobisMods-REPORoles-2.0.4

@@ -1,5 +1,13 @@
 # Changelog
 
+### Version 1.2.8
+#### Release Date: 2025-05-07
+#### Profile Code: 0196acae-a2f0-1f43-b262-9a44b5076ef2
+#### Mod Additions
+- Added REPORoles
+#### Mod Updates
+- GamblingMachine updated to: 1.0.5
+
 ### Version 1.2.7
 #### Release Date: 2025-05-07
 #### Profile Code: 0196aca6-af14-0314-397b-ba010bd24194
