@@ -15,11 +15,12 @@ I put every change I make in the changelog and all older versions with their res
 
 ## Current Version
 
-### Version 1.2.4
+### Version 1.2.5
 #### Release Date: 2025-05-06
-#### Profile Code: 0196a7a2-405b-4847-4d90-0e5f5c2beb42
-#### Config Changes
-##### BetterTruckHeals
-*General*
-- Changed UsePercentageHeal from false => true
+#### Profile Code: 0196a827-588a-af49-3788-c5be72e86b5e
+#### Mod Additions
+- Added MikuMiku Beamer
+- Added BigNuke
+#### Mod Removals
+- ShootDaWhoop
 

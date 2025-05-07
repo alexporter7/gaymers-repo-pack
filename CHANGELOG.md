@@ -1,5 +1,14 @@
 # Changelog
 
+### Version 1.2.5
+#### Release Date: 2025-05-06
+#### Profile Code: 0196a827-588a-af49-3788-c5be72e86b5e
+#### Mod Additions
+- Added MikuMiku Beamer
+- Added BigNuke
+#### Mod Removals
+- ShootDaWhoop
+
 ### Version 1.2.4
 #### Release Date: 2025-05-06
 #### Profile Code: 0196a7a2-405b-4847-4d90-0e5f5c2beb42
