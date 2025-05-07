@@ -15,12 +15,15 @@ I put every change I make in the changelog and all older versions with their res
 
 ## Current Version
 
-### Version 1.2.5
+### Version 1.2.6
 #### Release Date: 2025-05-06
-#### Profile Code: 0196a827-588a-af49-3788-c5be72e86b5e
-#### Mod Additions
-- Added MikuMiku Beamer
-- Added BigNuke
+#### Profile Code: 0196a8ea-9ad1-0aa4-a284-a1fdd8f5be35
+#### Config Changes
+##### MCZombie Mod
+*Zombie*
+- Changed "Horde Spawn Chance" from 10 => 0
+- Changed "Max Number of Zombies a Zombie can spawn" from 2 => 0
+- Changed "Global Horde Limit" from 10 => 0
 #### Mod Removals
-- ShootDaWhoop
+- Dafis Mega Valuables Pack Emporium
 

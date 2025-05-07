@@ -1,5 +1,17 @@
 # Changelog
 
+### Version 1.2.6
+#### Release Date: 2025-05-06
+#### Profile Code: 0196a8ea-9ad1-0aa4-a284-a1fdd8f5be35
+#### Config Changes
+##### MCZombie Mod
+*Zombie*
+- Changed "Horde Spawn Chance" from 10 => 0
+- Changed "Max Number of Zombies a Zombie can spawn" from 2 => 0
+- Changed "Global Horde Limit" from 10 => 0
+#### Mod Removals
+- Dafis Mega Valuables Pack Emporium
+
 ### Version 1.2.5
 #### Release Date: 2025-05-06
 #### Profile Code: 0196a827-588a-af49-3788-c5be72e86b5e
