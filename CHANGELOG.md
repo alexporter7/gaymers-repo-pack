@@ -1,5 +1,17 @@
 # Changelog
 
+### Version 1.3.0
+#### Release Date: 2025-05-07
+#### Profile Code: 0196adef-c04b-4643-3e95-f7cfa994b081
+#### Config Changes
+##### PlayerScaling
+*Enemies Scaling*
+- Changed "Enimies Scaling Multiplier" from 1.5 => 1.2
+*Map Scaling*
+- Changed "Map Scaling Multiplier" from 2 => 1.25
+*Valuables Scaling*
+- Changed "Valuables Scaling Multiplier" from 1.5 => 1.25
+
 ### Version 1.2.9
 #### Release Date: 2025-05-07
 #### Profile Code: 0196adaf-b1ff-4560-69a4-e0521e37fd20
