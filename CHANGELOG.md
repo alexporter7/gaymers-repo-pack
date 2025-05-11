@@ -1,5 +1,20 @@
 # Changelog
 
+### Version 1.3.1
+#### Release Date: 2025-05-11
+#### Profile Code: 0196c057-d798-efcd-1629-874defcb75f2
+#### Mod Updates
+- Satisfactory_Valuables updated to: 1.3.1
+- MinecraftStrongholdLevel updated to: 1.8.2
+- Tolian_Levels updated to: 0.2.3
+- Deeproot_Garden updated to: 1.1.0
+- Jake_and_Livs_Retro_Smashpack updated to: 1.2.1
+- BetterDoorSounds updated to: 1.3.5
+- Wesleys_Levels updated to: 1.0.5
+- Map_Value_Tracker updated to: 1.3.0
+- BerserkerEnemies updated to: 1.3.1
+- SillyValuables updated to: 1.7.2
+
 ### Version 1.3.0
 #### Release Date: 2025-05-07
 #### Profile Code: 0196adef-c04b-4643-3e95-f7cfa994b081
