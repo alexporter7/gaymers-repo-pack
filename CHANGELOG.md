@@ -1,5 +1,15 @@
 # Changelog
 
+### Version 1.4.1
+#### Release Date: 2025-05-12
+#### Profile Code: 
+#### Mod Updates
+- Tolian_Levels updated to: 0.2.4
+- BerserkerEnemies updated to: 1.3.2
+- SillyValuables updated to: 1.7.4
+#### Bug Fixes
+- Fixed leftover Imperium Settings
+
 ### Version 1.4.0
 #### Release Date: 2025-05-11
 #### Profile Code: 0196c148-d866-7ab5-af01-ea84c86cf52c
