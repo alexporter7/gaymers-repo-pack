@@ -11,7 +11,7 @@ loaforc-loaforcsSoundAPI_REPO-1.0.1
 loaforc-loaforcsSoundAPI-2.0.6
 Hura-Hura_Instant_Revive-1.0.0
 Tidaleus-MoreReviveHP-1.0.1
-AriIcedT-MinecraftStrongholdLevel-1.8.2
+AriIcedT-MinecraftStrongholdLevel-1.9.2
 NastyPablo-LateJoinSharedUpgradesByNastyPablo-1.1.2
 mattymatty-AsyncLoggers-2.1.4
 DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1
@@ -38,7 +38,7 @@ OrtonLongGaming-FreddyEnemy-1.0.3
 OrtonLongGaming-OrtonUtils-1.0.0
 Hattorius-PostLevelSummary-2.0.0
 Scriptova-Revive_Potion-1.0.2
-Lunoid-REPO_Alchemy-1.1.1
+Lunoid-REPO_Alchemy-1.1.3
 Yuckers-Unique_Potions-0.6.3
 WildDucki-GtaVDeathSound-1.0.0
 silhygames-FUMO-1.0.1
@@ -53,7 +53,7 @@ Lazarus-BetterTruckHeals-2.2.1
 Flopper-ImprovedStamina-1.2.0
 Caigan-Tokucade_Valuables-1.4.0
 XiaohaiMod-XH_DamageShow_EnemyHealthBar-1.0.2
-Magic_Wesley-Wesleys_Enemies-1.2.4
+Magic_Wesley-Wesleys_Enemies-1.3.1
 Tolian-Tolian_Levels-0.2.4
 BULLETBOT-ScaleInCart-1.1.8
 Spawze-Spawzes_Valuables-1.3.1
@@ -72,7 +72,7 @@ GreatColtini-MinecraftAdditions-1.0.7
 KatKlerb-REPOMON-1.0.1
 Jake_n_Liv-Jake_and_Livs_Retro_Smashpack-1.2.1
 XiaohaiMod-BetterAim-1.0.0
-TheASMRsonist-BetterDoorSounds-1.3.5
+TheASMRsonist-BetterDoorSounds-1.3.6
 Lazarus-NoGunSpread-1.0.3
 ColtG5-LegoGnomes-1.0.2
 Clementinise-ZoomyEyes-1.1.0
@@ -88,7 +88,7 @@ Hamunii-AutoHookGenPatcher-1.0.6
 BitterDoes-Effective_Audio-1.0.2
 PearlGalaxy-NintendoValuables-1.4.1
 nickklmao-JustRetry-1.0.2
-Magic_Wesley-Wesleys_Levels-1.0.5
+Magic_Wesley-Wesleys_Levels-1.0.6
 Flanagan-BetterVoiceRange-1.1.0
 Meliodin-MinecraftMod-1.1.0
 DragonModders-RDD_Valuables-0.1.9
@@ -118,8 +118,8 @@ Ezekiel0-AK47-1.0.0
 Dafini-Dafis_Mega_Monster_Pack_Emporium_REPO_Edition-1.0.22
 soundedsquash-Enemy_And_Valuable_Spawn_Manager-0.5.5
 Cronchy-DeathHeadHopper-2.1.5
-FNKT_Labs-BerserkerEnemies-1.3.2
-Sangrento-SillyValuables-1.7.4
+FNKT_Labs-BerserkerEnemies-1.3.4
+Sangrento-SillyValuables-1.9.4
 CradleTheManeater-Five_Gum_Huntsman-1.0.0
 AriIcedT-ValuableCans-1.0.3
 Ako-FunnyItems-1.3.0
@@ -146,5 +146,3 @@ REPOknorton-DestructionTextReplacer-1.0.2
 Maflingus-ColorCycler-1.2.4
 DiFFoZ-BepInEx_MonoMod_Debug_Patcher-1.1.1
 Rune580-REPO_SteamNetworking_Lib-0.1.1
-giosuel-Imperium_Repo-0.1.4
-giosuel-Librarium-0.0.6

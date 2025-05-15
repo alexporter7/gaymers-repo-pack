@@ -15,12 +15,14 @@ I put every change I make in the changelog and all older versions with their res
 
 ## Current Version
 
-### Version 1.4.1
-#### Release Date: 2025-05-12
-#### Profile Code: 0196c57e-4b07-c049-bb59-1ca18b08c8cb
+### Version 1.4.2
+#### Release Date: 2025-05-15
+#### Profile Code: 0196d58e-7924-932e-7aaf-87d2b959b8b2
 #### Mod Updates
-- Tolian_Levels updated to: 0.2.4
-- BerserkerEnemies updated to: 1.3.2
-- SillyValuables updated to: 1.7.4
-#### Bug Fixes
-- Fixed leftover Imperium Settings
+- MinecraftStrongholdLevel updated to: 1.9.2
+- REPO_Alchemy updated to: 1.1.3
+- Wesleys_Enemies updated to: 1.3.1
+- BetterDoorSounds updated to: 1.3.6
+- Wesleys_Levels updated to: 1.0.6
+- BerserkerEnemies updated to: 1.3.4
+- SillyValuables updated to: 1.9.4
