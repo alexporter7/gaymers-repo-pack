@@ -1,5 +1,14 @@
 # Changelog
 
+### Version 1.4.3
+#### Release Date: 2025-05-20
+#### Profile Code: 0196eff7-04aa-ce28-8382-e91ea88f15e3
+#### Mod Updates
+- Wesleys_Enemies updated to: 1.3.3
+- Deeproot_Garden updated to: 1.1.1
+- Wesleys_Levels updated to: 1.0.7
+- SillyValuables updated to: 2.2.1
+
 ### Version 1.4.2
 #### Release Date: 2025-05-15
 #### Profile Code: 0196d58e-7924-932e-7aaf-87d2b959b8b2

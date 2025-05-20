@@ -13,7 +13,6 @@ Hura-Hura_Instant_Revive-1.0.0
 Tidaleus-MoreReviveHP-1.0.1
 AriIcedT-MinecraftStrongholdLevel-1.9.2
 NastyPablo-LateJoinSharedUpgradesByNastyPablo-1.1.2
-mattymatty-AsyncLoggers-2.1.4
 DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1
 PxntxrezStudio-ValuableInspector-1.1.0
 Kistras-Valuables_Scanner-1.1.3
@@ -53,7 +52,7 @@ Lazarus-BetterTruckHeals-2.2.1
 Flopper-ImprovedStamina-1.2.0
 Caigan-Tokucade_Valuables-1.4.0
 XiaohaiMod-XH_DamageShow_EnemyHealthBar-1.0.2
-Magic_Wesley-Wesleys_Enemies-1.3.1
+Magic_Wesley-Wesleys_Enemies-1.3.3
 Tolian-Tolian_Levels-0.2.4
 BULLETBOT-ScaleInCart-1.1.8
 Spawze-Spawzes_Valuables-1.3.1
@@ -61,7 +60,7 @@ eXish-ForgottenDelivery-1.0.2
 FluxTeam-WiiShopChannelMusic-1.0.0
 caleb054126-ROBLOXValuables-1.3.0
 WhalesAllAround-CartReclaim-1.0.0
-Beaniebe-Deeproot_Garden-1.1.0
+Beaniebe-Deeproot_Garden-1.1.1
 NoSpawnn-BetterChatBox-1.0.2
 UnloadedHangar-ChatBox-1.0.8
 GarStudios-Oiia_Cat_Valuable-1.0.0
@@ -88,7 +87,7 @@ Hamunii-AutoHookGenPatcher-1.0.6
 BitterDoes-Effective_Audio-1.0.2
 PearlGalaxy-NintendoValuables-1.4.1
 nickklmao-JustRetry-1.0.2
-Magic_Wesley-Wesleys_Levels-1.0.6
+Magic_Wesley-Wesleys_Levels-1.0.7
 Flanagan-BetterVoiceRange-1.1.0
 Meliodin-MinecraftMod-1.1.0
 DragonModders-RDD_Valuables-0.1.9
@@ -119,7 +118,7 @@ Dafini-Dafis_Mega_Monster_Pack_Emporium_REPO_Edition-1.0.22
 soundedsquash-Enemy_And_Valuable_Spawn_Manager-0.5.5
 Cronchy-DeathHeadHopper-2.1.5
 FNKT_Labs-BerserkerEnemies-1.3.4
-Sangrento-SillyValuables-1.9.4
+Sangrento-SillyValuables-2.2.1
 CradleTheManeater-Five_Gum_Huntsman-1.0.0
 AriIcedT-ValuableCans-1.0.3
 Ako-FunnyItems-1.3.0
@@ -146,3 +145,4 @@ REPOknorton-DestructionTextReplacer-1.0.2
 Maflingus-ColorCycler-1.2.4
 DiFFoZ-BepInEx_MonoMod_Debug_Patcher-1.1.1
 Rune580-REPO_SteamNetworking_Lib-0.1.1
+mattymatty-AsyncLoggers-2.1.4
